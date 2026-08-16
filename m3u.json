@@ -175,7 +175,7 @@
   },
   {
     "name": "ATV HD",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/atv-logo.png",
     "group": "Turkish",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
   },
