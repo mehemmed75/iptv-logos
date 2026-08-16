@@ -1,12 +1,5 @@
 [
   {
-    "giris_sifresi": "test123",
-    "cihaz_limiti": 5,
-    "bitis_tarihi": "01.01.2030",
-    "izinli_cihazlar": [],
-    "aktif": false
-  },
-  {
     "giris_sifresi": "mmm",
     "cihaz_limiti": 1,
     "bitis_tarihi": "17.01.2026",
