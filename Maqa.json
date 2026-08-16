@@ -5,5 +5,12 @@
     "bitis_tarihi": "17.08.2026",
     "izinli_cihazlar": [],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "maqaaa",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "17.08.2026",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
