@@ -199,7 +199,7 @@
   },
   {
     "name": "TV8",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Tv8_Yeni_Logo.png",
     "group": "Turkish",
     "url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8"
   },
