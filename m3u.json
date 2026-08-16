@@ -253,7 +253,7 @@
   },
   {
     "name": "BEYAZ TV",
-    "logo": "https://tr.wikipedia.org/wiki/Beyaz_TV#/media/Dosya:Beyaz_TV_logo.jpeg",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/logo.png",
     "group": "Turkish",
     "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
   },
