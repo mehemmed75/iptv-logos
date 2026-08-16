@@ -5,5 +5,12 @@
     "bitis_tarihi": "01.01.2030",
     "izinli_cihazlar": [],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "mmm",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "17.01.2026",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
