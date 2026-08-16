@@ -259,7 +259,7 @@
   },
   {
     "name": "DMAX",
-    "logo": "",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/dmax-logo-png_seeklogo-314611-removebg-preview.png",
     "group": "Turkish",
     "url": "https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w1834200341.m3u8?hash=d5ffe0b950d5afcc288639bc7600183a"
   },
