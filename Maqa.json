@@ -3,7 +3,9 @@
     "giris_sifresi": "meqqii",
     "cihaz_limiti": 1,
     "bitis_tarihi": "17.08.2026 22:24",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "f9fb7172a5cbd7d1"
+    ],
     "aktif": true
   }
 ]
