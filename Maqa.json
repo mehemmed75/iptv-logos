@@ -5,14 +5,5 @@
     "bitis_tarihi": "18.08.2026 14:00",
     "izinli_cihazlar": [],
     "aktif": true
-  },
-  {
-    "giris_sifresi": "mehemmed0272",
-    "cihaz_limiti": 2,
-    "bitis_tarihi": "18.08.2026 15:00",
-    "izinli_cihazlar": [
-      "f9fb7172a5cbd7d1"
-    ],
-    "aktif": true
   }
 ]
