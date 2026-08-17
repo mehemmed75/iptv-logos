@@ -7,5 +7,12 @@
       "f9fb7172a5cbd7d1"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "112",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "17.08.2026 23:15",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
