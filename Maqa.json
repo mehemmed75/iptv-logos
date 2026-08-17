@@ -3,7 +3,9 @@
     "giris_sifresi": "maqa",
     "cihaz_limiti": 1,
     "bitis_tarihi": "18.08.2026 21:31",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "f9fb7172a5cbd7d1"
+    ],
     "aktif": true
   }
 ]
