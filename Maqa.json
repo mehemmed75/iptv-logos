@@ -7,5 +7,12 @@
       "7917610d841d645e"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "ibrahim",
+    "cihaz_limiti": 2,
+    "bitis_tarihi": "25.08.2026 16:55",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
