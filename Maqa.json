@@ -22,7 +22,9 @@
     "giris_sifresi": "tv203",
     "cihaz_limiti": 1,
     "bitis_tarihi": "18.08.2026 11:00",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "042787dd5afc48ff"
+    ],
     "aktif": true
   }
 ]
