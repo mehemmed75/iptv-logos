@@ -1,14 +1,5 @@
 [
   {
-    "giris_sifresi": "123",
-    "cihaz_limiti": 1,
-    "bitis_tarihi": "18.08.2026 14:00",
-    "izinli_cihazlar": [
-      "6e608532d56b85fd"
-    ],
-    "aktif": true
-  },
-  {
     "giris_sifresi": "000",
     "cihaz_limiti": 1,
     "bitis_tarihi": "18.08.2026 11:00",
