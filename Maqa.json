@@ -8,5 +8,12 @@
       "7917610d841d645e"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "13",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "18.08.2026 11 59",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
