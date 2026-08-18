@@ -1,7 +1,7 @@
 [
   {
     "giris_sifresi": "ibrahim",
-    "cihaz_limiti": 2,
+    "cihaz_limiti": 3,
     "bitis_tarihi": "25.08.2026 16:55",
     "izinli_cihazlar": [
       "f9fb7172a5cbd7d1",
