@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "giris_sifresi": "azer",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "20.08.2026 22:46",
+    "izinli_cihazlar": [],
+    "aktif": true
+  }
+]
