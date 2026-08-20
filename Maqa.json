@@ -1,15 +1,1 @@
-[
-  {
-    "giris_sifresi": "ibrahim",
-    "cihaz_limiti": 10,
-    "bitis_tarihi": "25.08.2026 16:55",
-    "izinli_cihazlar": [
-      "f9fb7172a5cbd7d1",
-      "6e608532d56b85fd",
-      "7917610d841d645e",
-      "c85ec613bb520ada",
-      "07293116a09ecd99"
-    ],
-    "aktif": true
-  }
-]
+[]
