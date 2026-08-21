@@ -7,12 +7,5 @@
       "f9fb7172a5cbd7d1"
     ],
     "aktif": true
-  },
-  {
-    "giris_sifresi": "mmm",
-    "cihaz_limiti": 1,
-    "bitis_tarihi": "20.08.2026 00:00",
-    "izinli_cihazlar": [],
-    "aktif": false
   }
 ]
