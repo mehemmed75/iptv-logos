@@ -149,6 +149,12 @@
     "group": "Azerbaijan",
     "url": "https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8"
   },
+{
+    "name": "Hadi Tv Az",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/real%20tv_azerbaijan.png.bak",
+    "group": "Azerbaijan",
+    "url": "https://amsterdam.zeuscdn724.com:443/H3/tracks-v4a1/mono.ts.m3u8"
+  },
  {
     "name": "Kanal 35 Az",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/real%20tv_azerbaijan.png.bak",
