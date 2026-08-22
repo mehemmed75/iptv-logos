@@ -18,10 +18,10 @@
     "url": "https://str2.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjExNC4xODIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNNLUc5NjBGKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUwLjAuNzg3MS4xODQgTW9iaWxlIFNhZmFyaS81MzciLCJleHAiOjE3ODc0MjUzODMsImp0aSI6IjA2MGUzYTFhMjM3NjI5YjYifQ%3D%3D.ay8o+6Mmx8jRIgPhW5IuvP3kqM5931pzJ%2Ffq+EZGwq4%3D"
   },
   {
-    "name": "Xezer TV",
+    "name": "Xezer TV (720P)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/xezerrr-removebg-preview.png",
     "group": "Azerbaijan",
-    "url": "https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE5My4zNy40NC4zNCIsInVhIjoiIiwiZXhwIjoxNzgyMzMwNDgyLCJqdGkiOiI2YzkwNzc4NGUyM2MxN2NmIn0%3D.VIGvURYytszmwdDt6Yob3YX2jKI47ImL0ZXgN3myXH4%3D"
+    "url": "https://xezerxeber.az/stream/main_stream.m3u8"
   },
   {
     "name": "Ictimai TV SD",
