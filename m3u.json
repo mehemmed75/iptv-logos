@@ -161,6 +161,18 @@
     "group": "Azerbaijan",
     "url": "https://proxy.hdtvcanli.com/https://str.yodacdn.net/kanal35/mono.m3u8?token=fd9253e7022423f6017bca5bdba2d3d8075a912e-13124e96541b6a597452382ec12291bc-1787435818000000-1787425018000"
   },
+ {
+    "name": "Konul Tv Az",
+    "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/real%20tv_azerbaijan.png.bak",
+    "group": "Azerbaijan",
+    "url": "http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/tracks-v1a1/mono.m3u8"
+  },
+
+
+
+
+
+
   {
     "name": "Kanal D (1080P)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/kanal-d-seeklogo.png",
