@@ -75,7 +75,7 @@
     "name": "Qafqaz Tv",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Qafqaz_TV_(2017-h.h.).png",
     "group": "Azerbaijan",
-    "url": "https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8?token=6a9391f850df5f46a48bb99cb5d1d1589bc491e9-ab6ba826fd7084a760d0ae33a39a4385-1787437134-1787426334"
+    "url": "http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8"
   },
   {
     "name": "ARB",
