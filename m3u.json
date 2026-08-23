@@ -353,7 +353,8 @@
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/TRT_1_logo_(2012-2021).png",
     "group": "Turkish",
     "urls": [
-      "https://trt.daioncdn.net/trt-1/master_1440p.m3u8?=&sid=8iy2cllpsf8c&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2"
+  "https://trt.daioncdn.net/trt-1/master_1440p.m3u8?=&sid=8iy2cllpsf8c&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2",
+"https://tv-trt1.medya.trt.com.tr/master_1440.m3u8"
     ]
   },
   {
