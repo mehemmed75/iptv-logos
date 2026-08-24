@@ -3,9 +3,7 @@
     "giris_sifresi": "15272",
     "cihaz_limiti": 1,
     "bitis_tarihi": "25.09.2026 00:00",
-    "izinli_cihazlar": [
-      "f9fb7172a5cbd7d1"
-    ],
+    "izinli_cihazlar": [],
     "aktif": true,
     "son_aktivlik": 0,
     "baxdigi_kanal": ""
