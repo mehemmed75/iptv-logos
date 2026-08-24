@@ -3,9 +3,7 @@
     "giris_sifresi": "124",
     "cihaz_limiti": 1,
     "bitis_tarihi": "25.08.2026 23:59",
-    "izinli_cihazlar": [
-      "Mehemmed"
-    ],
+    "izinli_cihazlar": [],
     "aktif": true
   }
 ]
