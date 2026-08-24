@@ -1,0 +1,14 @@
+[
+  {
+    "giris_sifresi": "124",
+    "cihaz_limiti": 15,
+    "bitis_tarihi": "23.09.2026 23:00",
+    "izinli_cihazlar": [
+      "6e608532d56b85fd",
+      "df8db42c484bccbd"
+    ],
+    "aktif": true,
+    "son_aktivlik": 0,
+    "baxdigi_kanal": ""
+  }
+]
