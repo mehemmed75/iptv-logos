@@ -9,5 +9,12 @@
     "aktif": true,
     "son_aktivlik": 0,
     "baxdigi_kanal": ""
+  },
+  {
+    "giris_sifresi": "124",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "25.08.2026 01:38",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
