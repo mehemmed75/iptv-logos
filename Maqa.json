@@ -1,7 +1,7 @@
 [
   {
     "giris_sifresi": "124",
-    "cihaz_limiti": 2,
+    "cihaz_limiti": 4,
     "bitis_tarihi": "27.09.2026 15:14",
     "izinli_cihazlar": [
       "f9fb7172a5cbd7d1",
