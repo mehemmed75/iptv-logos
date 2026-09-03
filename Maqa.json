@@ -1,14 +1,5 @@
 [
   {
-    "giris_sifresi": "j204",
-    "cihaz_limiti": 2,
-    "bitis_tarihi": "03.10.2026 20:16",
-    "izinli_cihazlar": [
-      "f9fb7172a5cbd7d1"
-    ],
-    "aktif": true
-  },
-  {
     "giris_sifresi": "maqa",
     "cihaz_limiti": 2,
     "bitis_tarihi": "03:10:2027 20:23",
