@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "giris_sifresi": "j204",
+    "cihaz_limiti": 2,
+    "bitis_tarihi": "03.10.2026 20:16",
+    "izinli_cihazlar": [],
+    "aktif": true
+  }
+]
