@@ -222,10 +222,9 @@
     "name": "CBC",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/cbclogo.png",
     "group": "Azerbaijan",
-    "web_url": "",
+    "web_url": "https://canlitv.com/cbc-tv",
     "urls": [
-      "https://yayin2.canlitv.fun/live/cbc.stream/chunklist_w1353119496.m3u8?hash=3b91dc536027c96ce6d25b1a4056b74e",
-      "https://proxy.hdtvcanli.com/https://yayin2.canlitv.fun/live/cbc.stream/chunklist_w1544157653.m3u8?hash=62d73cfb044b604a7f9b3f95709b5440"
+      
     ]
   },
   {
