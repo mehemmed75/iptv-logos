@@ -331,9 +331,9 @@
     "name": "Euro Star (1080P)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Euro_Star_loqosu_(3_yanvar_2012-indi).png",
     "group": "Turkish",
-    "web_url": "",
+    "web_url": "https://www.eurostartv.com.tr/canli-izle",
     "urls": [
-      "https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=4xq3WwQxC6VDmRV1CVQMVA&e=1787567000"
+      
     ]
   },
   {
