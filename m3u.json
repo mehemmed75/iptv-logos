@@ -322,9 +322,9 @@
     "name": "Star Tv (720P)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/star-tv-seeklogo.png",
     "group": "Turkish",
-    "web_url": "",
+    "web_url": "https://canlitv.com/star-tv-canli",
     "urls": [
-      "https://dogus.daioncdn.net/startv/startv_720p.m3u8?="
+   
     ]
   },
   {
