@@ -42,7 +42,8 @@
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ictimai-tv-seeklogo.png",
     "group": "Azerbaijan",
     "urls": [
-      "https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0"
+      "https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0",
+"https://ictimai.tvstream.az/hls/stream6/stream.m3u8"
     ]
   },
   {
