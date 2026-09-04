@@ -125,7 +125,7 @@
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ARB_24_logo1.png",
     "group": "Azerbaijan",
     "urls": [
-      "https://yayin2.canlitv.fun/live/arb24.stream/chunklist_w1607446006.m3u8?hash=bd529fdd490c072511a78616a65b7769"
+      "https://arb24.tvstream.az/hls/stream/stream.m3u8"
     ]
   },
   {
