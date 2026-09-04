@@ -3,36 +3,38 @@
     "name": "AzTv",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/AzTV_(2019).png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8",
-"https://az.tvstream.az/hls/stream9/stream.m3u8"
-
+      "https://az.tvstream.az/hls/stream9/stream.m3u8"
     ]
   },
   {
     "name": "ATV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ATV_(2020-h.h.).png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8",
-"https://atv.tvstream.az/hls/stream7/stream.m3u8"
+      "https://atv.tvstream.az/hls/stream7/stream.m3u8"
     ]
   },
   {
     "name": "Mədəniyyət Tv",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/M%C9%99d%C9%99niyy%C9%99t_TV_(2019).png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
-"https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMS4xMzMiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzQzOTA4OSwianRpIjoiOTAxMzRiNDRiNzE1YjI5ZSJ9.NoLhRs%2FsPYsUXsCBXR2TAOHSAVl%2F8O99h6AT634tZLk%3D"
+      "https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMS4xMzMiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzQzOTA4OSwianRpIjoiOTAxMzRiNDRiNzE1YjI5ZSJ9.NoLhRs%2FsPYsUXsCBXR2TAOHSAVl%2F8O99h6AT634tZLk%3D"
     ]
   },
   {
     "name": "Xezer TV (720P)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/xezerrr-removebg-preview.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
-"https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8",
-
+      "https://str.yodacdn.net/xazartv/tracks-v1a1/mono.ts.m3u8",
       "https://xezerxeber.az/stream/main_stream.m3u8"
     ]
   },
@@ -40,26 +42,28 @@
     "name": "Ictimai TV SD",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ictimai-tv-seeklogo.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0",
-"https://ictimai.tvstream.az/hls/stream6/stream.m3u8",
-"https://str.yodacdn.net/ictimaitele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjUuMTc4LjExLjEwMCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBLKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzg4NTQzNDgwLCJqdGkiOiI0OWE2OWRiMDkzMjZjZjEzIn0%3D.EtNiFYj2LtM59N6Led57YaCI4%2FbQMpeFWG537DqvMCA%3D"
+      "https://ictimai.tvstream.az/hls/stream6/stream.m3u8",
+      "https://str.yodacdn.net/ictimaitele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjUuMTc4LjExLjEwMCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBLKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzg4NTQzNDgwLCJqdGkiOiI0OWE2OWRiMDkzMjZjZjEzIn0%3D.EtNiFYj2LtM59N6Led57YaCI4%2FbQMpeFWG537DqvMCA%3D"
     ]
   },
   {
     "name": "Space TV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Space_TV_loqosu_(2021-2023).png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://space.tvstream.az/hls/stream8/stream.m3u8",
-
-"https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4NS4xNDYuMTE1LjIxMCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEyOyBBbmRyb2lkVFYpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OC4wLjQ3NTguODcgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4ODUyMzAwMywianRpIjoiYWRhYzc2YjhmYTc5MjkzMSJ9.pR+hPh+idWwflPvN27jz7lDSTiYO69aTLc5zlnNxL14%3D"
+      "https://str.yodacdn.net/space/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE4NS4xNDYuMTE1LjIxMCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEyOyBBbmRyb2lkVFYpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OC4wLjQ3NTguODcgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4ODUyMzAwMywianRpIjoiYWRhYzc2YjhmYTc5MjkzMSJ9.pR+hPh+idWwflPvN27jz7lDSTiYO69aTLc5zlnNxL14%3D"
     ]
   },
   {
     "name": "Dunya TV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/D%C3%BCnya_TV__2019-h.h._-removebg-preview.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://stream.dunyatv.az/live/dunyatv.m3u8"
     ]
@@ -68,6 +72,7 @@
     "name": "Baku TV (720p)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Baku_TV__2018_-removebg-preview.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://rtmp.baku.tv/hls/bakutv_1080p.m3u8"
     ]
@@ -76,6 +81,7 @@
     "name": "Kapaz TV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Kapaz_TV_Logo_2019.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "http://85.132.78.122:8050/hls/stream/index.m3u8"
     ]
@@ -84,24 +90,27 @@
     "name": "Idman",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/%C4%B0dman_TV_(2019).png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
-     "https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjExNC4xODIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNNLUc5NjBGKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUwLjAuNzg3MS4xODQgTW9iaWxlIFNhZmFyaS81MzciLCJleHAiOjE3ODc0NDA1OTMsImp0aSI6ImU2NTZiZTQ0ZTNlMDBkZTYifQ%3D%3D.%2FJX001Fcqtf5VJLlnRkvq%2F3L7F5rmc2WWuhM3tNczYg%3D",
-"https://idman.tvstream.az/hls/stream4/stream.m3u8"
+      "https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjExNC4xODIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IFNNLUc5NjBGKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUwLjAuNzg3MS4xODQgTW9iaWxlIFNhZmFyaS81MzciLCJleHAiOjE3ODc0NDA1OTMsImp0aSI6ImU2NTZiZTQ0ZTNlMDBkZTYifQ%3D%3D.%2FJX001Fcqtf5VJLlnRkvq%2F3L7F5rmc2WWuhM3tNczYg%3D",
+      "https://idman.tvstream.az/hls/stream4/stream.m3u8"
     ]
   },
   {
     "name": "Biznes",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Biznes-TV-LOGO.webp",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8",
-"https://biznestv.az/hls/live.m3u8"
+      "https://biznestv.az/hls/live.m3u8"
     ]
   },
   {
     "name": "Naxçıvan",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Nax%C3%A7%C4%B1van_TV_(2025).png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://str2.yodacdn.net/ntv/tracks-v1a1/mono.ts.m3u8"
     ]
@@ -110,6 +119,7 @@
     "name": "Qafqaz Tv",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Qafqaz_TV_(2017-h.h.).png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8"
     ]
@@ -118,25 +128,27 @@
     "name": "ARB",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ARB-removebg-preview.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
-      "https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE5My4zNy40MS4xMTgiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgSykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0OS4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzU5MzYwMSwianRpIjoiODA5ODJiMmY5YzU5N2Q0NSJ9.jxNHLvTwSPgvlkoH75fEbw2iPuFEGoSGkEraHWwzrwA%3D",
-"https://arb.tvstream.az/hls/stream5/stream.m3u8"
-
+      "https://str.yodacdn.net/arb/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE5My4zNy40MS4xMTgiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgSykgQXBwbGVXZWJLaXQvNTM3Lj32IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0OS4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzU5MzYwMSwianRpIjoiODA5ODJiMmY5YzU5N2Q0NSJ9.jxNHLvTwSPgvlkoH75fEbw2iPuFEGoSGkEraHWwzrwA%3D",
+      "https://arb.tvstream.az/hls/stream5/stream.m3u8"
     ]
   },
   {
     "name": "ARB 24",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ARB_24_logo1.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://arb24.tvstream.az/hls/stream/stream.m3u8",
-"https://yayin2.canlitv.fun/live/arb24.stream/chunklist_w1023997124.m3u8?hash=79f6b4aa5f5ef5cbdb09ab83be112493"
+      "https://yayin2.canlitv.fun/live/arb24.stream/chunklist_w1023997124.m3u8?hash=79f6b4aa5f5ef5cbdb09ab83be112493"
     ]
   },
   {
     "name": "ARB Gunes",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ARB_Gunesh_Logo.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://yayin2.canlitv.fun/live/arbgunes.stream/chunklist_w1289301539.m3u8?hash=bd529fdd490c072511a78616a65b7769"
     ]
@@ -145,6 +157,7 @@
     "name": "APA",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/APA_TV_loqo.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "http://str.yodacdn.net/apatv/tracks-v1a1/mono.ts.m3u8"
     ]
@@ -153,6 +166,7 @@
     "name": "Kanal S TV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Kanal_S_loqosu_(2022).png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8"
     ]
@@ -161,6 +175,7 @@
     "name": "EL",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/EL_TV_loqosu_(2020).png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://str.yodacdn.net/eltv/tracks-v1a1/mono.ts.m3u8"
     ]
@@ -169,6 +184,7 @@
     "name": "MTV TV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/MTV_Azerbaijan_Logo.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://bstelevision.com/proxy.php?url=https%3A%2F%2Fst2.mediabay.tv%2FAzer_Music_HD%2Ftracks-v1a1%2Fmono.m3u8%3F_t%3D1787427191%26token%3Dfd7d7fd16447dffcbd6fde3c4a4d6d863966f205-688e3e5109903b6c284475bd75ae1340-1787437691-1787426891"
     ]
@@ -177,6 +193,7 @@
     "name": "TMB TV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/tmbtaz-png.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://str.yodacdn.net/tmbaz/tracks-v1a1/mono.ts.m3u8"
     ]
@@ -185,6 +202,7 @@
     "name": "GünazTV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/G%C3%BCnAz_TV.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://tv.gunaz.tv/hls/live.m3u8"
     ]
@@ -193,34 +211,37 @@
     "name": "CBC Sport",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/cbc_logo2-removebg-preview-300x275.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
-     "https://cbcsport.tvstream.az/hls/stream3/stream.m3u8",
- "https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8"
+      "https://cbcsport.tvstream.az/hls/stream3/stream.m3u8",
+      "https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8"
     ]
   },
   {
     "name": "CBC",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/cbclogo.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://yayin2.canlitv.fun/live/cbc.stream/chunklist_w1353119496.m3u8?hash=3b91dc536027c96ce6d25b1a4056b74e",
-
-"https://proxy.hdtvcanli.com/https://yayin2.canlitv.fun/live/cbc.stream/chunklist_w1544157653.m3u8?hash=62d73cfb044b604a7f9b3f95709b5440"
+      "https://proxy.hdtvcanli.com/https://yayin2.canlitv.fun/live/cbc.stream/chunklist_w1544157653.m3u8?hash=62d73cfb044b604a7f9b3f95709b5440"
     ]
   },
   {
     "name": "Real Tv",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/real%20tv_azerbaijan.png",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://str.yodacdn.net/real/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMS4xMzMiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzQzOTA4OSwianRpIjoiOTAxMzRiNDRiNzE1YjI5ZSJ9.NoLhRs%2FsPYsUXsCBXR2TAOHSAVl%2F8O99h6AT634tZLk%3D",
-"https://realtv.tvstream.az/hls/stream2/stream.m3u8"
+      "https://realtv.tvstream.az/hls/stream2/stream.m3u8"
     ]
   },
   {
     "name": "Hadi Tv Az",
     "logo": " ",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://amsterdam.zeuscdn724.com:443/H3/tracks-v4a1/mono.ts.m3u8"
     ]
@@ -229,6 +250,7 @@
     "name": "Kanal 35 Az",
     "logo": " ",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://str.yodacdn.net/kanal35/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMS4xMzMiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzQzOTA4OSwianRpIjoiOTAxMzRiNDRiNzE1YjI5ZSJ9.NoLhRs%2FsPYsUXsCBXR2TAOHSAVl%2F8O99h6AT634tZLk%3D"
     ]
@@ -237,48 +259,52 @@
     "name": "Konul Tv Az",
     "logo": " ",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/tracks-v1a1/mono.m3u8"
     ]
   },
-
-{
+  {
     "name": "Show+ Tv Az",
     "logo": " ",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://rtmp.showplus.tv/hls/myshow.m3u8"
     ]
-},
-{
+  },
+  {
     "name": "AzStar Tv",
     "logo": " ",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://live.livestreamtv.ca/azstar/amlst:azstar/tracks-v1a1/mono.m3u8"
     ]
-},
-{
+  },
+  {
     "name": "Ayaz Tv",
     "logo": " ",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8"
     ]
-},
-{
+  },
+  {
     "name": "VIP HD Tv",
     "logo": " ",
     "group": "Azerbaijan",
+    "web_url": "",
     "urls": [
       "https://str.yodacdn.net/vip/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMS4xMzMiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzQzOTA4OSwianRpIjoiOTAxMzRiNDRiNzE1YjI5ZSJ9.NoLhRs%2FsPYsUXsCBXR2TAOHSAVl%2F8O99h6AT634tZLk%3D"
-]
-
-},
+    ]
+  },
   {
     "name": "Kanal D (1080P)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/kanal-d-seeklogo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=8h0k652p7uau&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3"
     ]
@@ -287,6 +313,7 @@
     "name": "Euro D",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Euro_D.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8"
     ]
@@ -295,14 +322,16 @@
     "name": "Star Tv (720P)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/star-tv-seeklogo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
-      "https://dogus.daioncdn.net/startv/startv_720p.m3u8?=&sid=8h0lkkiws4mn&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&ppid=531655682bfe83c366e13f041a1ddfaa&dfp_paln=AQzzBGQEqfcq-9I4B4nQwENsWnmHePDq3-IDMleZkfSlcQYXUCC57ZcXsWGUlj6tKB7ydSwJtKkpA7ANGzffr5p8shqlodVhwP2fTgGxMOciK02YiuJg-L9IsoeFvbRAQTGnittqUdv784CqCEnT5c7NQXxstMatOdiT9cmbG8NLN2kv5stD_mez846u6LhSiknjE_syVygP5kLiM0k8xTB6rnPZFc6GTGc2Vlb9Noo2s9-B1X3glK1vUocXGCfgqhLLYXtiitmeEGqdS8aPWKG3exaFRl_9R7t6PPr8N-AtCmYyzXpnxVQZG2bv8sXl3hJ_8McP7YxSTS_cLJxS3Hr5tLN-QEBz42RXU4k1uYnU_NzveYUBOpZIZmolfbfulP57YdCz6sX43pJaIFb9HtDaDKaTRyt-wBprduLbe0dF6ixXCD2ergtRurw_ShfITj4GUtYAZrq0ByqNLDtm8V1oypohgEQj4m737ozxfg0ZnaiyVUDIsiSS7XBS9NR5pyJlzDj7-Zz1loz74RTBYlYRCXC2Ue89YR_uxsaOLy8WpQbIerc566m2BiHmknFBaYTkyDJ4aCOY0vnhCdFQpGdS10JyOJfDCpR387UJ9hCsyxqsSdSw1qmUcvkE4VDGANiSvbyw2MLo8eINKJX_GCWfBwNjL_CSgvJd01czneQdOsbBk8uuiE_5Wy5MkdShmWPQ3t4y4vw7BlsYNs1t_-ZVMsyo6zxL3kaWvxV4diNU3R_4qQiUjHIVoxm0sfk0e6ZHyxkBR7UGHrUz5MrqG57tWEL92kb22KBcLDrUv_dw_7KptjU1xVPp3xEhTLdoAWBh3-IgVKpzvaZENDV3R7BZjdaW8f2OWEqV046wfsfvrtSMnr8ZQ2GGsOLalwpc6xEKn65sgb0bPwDueqLlNZopeIWVYuoswojVHQa12u0X1lipES-hStNJ8H0POQAdxqhMH8dNTcjyNrossu_KR6SnPrqGmpYOAk_3AtM9ycE1ManpY-UQwWb8--_-EPKWHvzuP2GXotEOL08jiIExazo_I4TH1h32mylohuu2ImQ8HUEQXCrLxqc_lkpUzHhjUd6INA-GLPasxHhSJjS6xvw60OYSYOOa-yJ_Yl-krjcXANffP4UNEbjTp3b9PakKQ3BmDgZYzcWjB_zYMlpvFKPu74dGAdFKYiRMGy6juqRYiwd1pEwG3lur2dUTSMHr22OkMaORN5cORbvEIq_4slk6zYUGUHHUd7lsTNhbnkYqv4DtjOIT2xv-KGDnu4N7HTbw4SOT-E5jBggWvO14SYRKH5SKPlKYBZBjnbPDa99oT9qBnPSkE48E19eyd2xAOUSnr1H0KsboK7Omfm1SUq8Yi3rO90Oob41-Vxe_4_ycMjB6-dgncvC3UvrHA1LYjfY1nWWEeSYaoTs96idZC9NaGd_pAH2GLrsiPA5N1IxJNgfXaBv243vb9xWXFZaYFceB03ZrErYdix7QLGxY7X0IpAiDgnX6rCgLIxxew0azRlt2k0gd9UIu3Hot4S1jKIVrNdQgowkAqVG7Ej--1v2vBRb9elpd6mzCroATCrg5HPwS9BkDweiM8wAfqJf_"
+      "https://dogus.daioncdn.net/startv/startv_720p.m3u8?="
     ]
   },
   {
     "name": "Euro Star (1080P)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Euro_Star_loqosu_(3_yanvar_2012-indi).png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=4xq3WwQxC6VDmRV1CVQMVA&e=1787567000"
     ]
@@ -311,26 +340,28 @@
     "name": "ATV HD",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/atv-logo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://trkvz-live.ercdn.net/atvhd/atvhd_1080p.m3u8?st=IgpNKAzWoVEYrwhuvHAWig&e=1788482960",
-
-"https://tuzcu.tv.vin/atv.m3u8?tkn=HZ_hSYAld2EFdnuXC-5XqQ&tms=1788452230&hst=tv.vin&ip=37.114.176.30&utkn=74d1cb016f021115cc474654e89ea277&ch=atv",
-
-"https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
+      "https://tuzcu.tv.vin/atv.m3u8?tkn=HZ_hSYAld2EFdnuXC-5XqQ&tms=1788452230&hst=tv.vin&ip=37.114.176.30&utkn=74d1cb016f021115cc474654e89ea277&ch=atv",
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
     ]
   },
   {
     "name": "ATV Avrupa 576P(SD)",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/atv-avrupa-logo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
-     "https://sivrice.tv.vin/atvavrupa.m3u8?tkn=un4GH8RXBZ3cCDl_s_Uh6g&tms=1787495278&hst=tv.vin&ip=37.114.182.148&utkn=88707ca5f68399eeb247228f1f9cb181&ch=atv-avrupa", "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=ywJIlA1REo-DCieZt3mT7A&e=1787526000"
+      "https://sivrice.tv.vin/atvavrupa.m3u8?tkn=un4GH8RXBZ3cCDl_s_Uh6g&tms=1787495278&hst=tv.vin&ip=37.114.182.148&utkn=88707ca5f68399eeb247228f1f9cb181&ch=atv-avrupa",
+      "https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=ywJIlA1REo-DCieZt3mT7A&e=1787526000"
     ]
   },
   {
     "name": "Kanal 7 HD",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/kanal7-seeklogo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1"
     ]
@@ -339,6 +370,7 @@
     "name": "Kanal 7 Avrupa",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/kanal7avrupa_logo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8"
     ]
@@ -347,6 +379,7 @@
     "name": "TV8",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Tv8_Yeni_Logo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8"
     ]
@@ -355,6 +388,7 @@
     "name": "TV8.5",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/TV8.5_Logosu.webp",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8?hash=bd3176256c2cd92fb33aabbda132f309"
     ]
@@ -363,6 +397,7 @@
     "name": "TV8 INT",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/TV8_Int_logosu-removebg-preview.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://cdn501.canlitvme.com/tv8int.m3u8?tkn=UXF_0hmkxlhuv0HXaSsAKA&tms=1782055399&hst=tr.canlitvme.com&ip=37.114.176.192&utkn=f1ac3f421bb6bc6a08a64b51a46c186b&ch=tv8intcanli-hd"
     ]
@@ -371,23 +406,26 @@
     "name": "TRT1 HD",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/TRT_1_logo_(2012-2021).png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
-  "https://trt.daioncdn.net/trt-1/master_1440p.m3u8?=&sid=8iy2cllpsf8c&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2",
-"https://tv-trt1.medya.trt.com.tr/master_1440.m3u8"
+      "https://trt.daioncdn.net/trt-1/master_1440p.m3u8?=&sid=8iy2cllpsf8c&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2",
+      "https://tv-trt1.medya.trt.com.tr/master_1440.m3u8"
     ]
   },
   {
     "name": "NOW TV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/now tv.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
-     "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1787537693&st=chefbAa6oQFZ-Qu3fP7T0w"
+      "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1787537693&st=chefbAa6oQFZ-Qu3fP7T0w"
     ]
   },
   {
     "name": "Show Tv",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/showtv_loqo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8ifwf4r67h3z&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"
     ]
@@ -396,14 +434,17 @@
     "name": "Show Turk",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Show_Turk_logo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
-     "https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1787490050&st=KQTjiSc8vkns_XPZpAlbEQ&tv=1", "https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1787489823&st=a6e8oP1n9mVVkCjNi7maaw&tv=1"
+      "https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1787490050&st=KQTjiSc8vkns_XPZpAlbEQ&tv=1",
+      "https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1787489823&st=a6e8oP1n9mVVkCjNi7maaw&tv=1"
     ]
   },
   {
     "name": "Show Max",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Show_Max.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8"
     ]
@@ -412,14 +453,17 @@
     "name": "A2",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/A2_logosu.jpg",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
-     "https://sivrice.tv.vin/a2tv.m3u8?tkn=lbquLmObHZLRspFjigCb1A&tms=1787497476&hst=tv.vin&ip=37.114.182.148&utkn=88707ca5f68399eeb247228f1f9cb181&ch=a2-tv", "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8"
+      "https://sivrice.tv.vin/a2tv.m3u8?tkn=lbquLmObHZLRspFjigCb1A&tms=1787497476&hst=tv.vin&ip=37.114.182.148&utkn=88707ca5f68399eeb247228f1f9cb181&ch=a2-tv",
+      "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8"
     ]
   },
   {
     "name": "BEYAZ TV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/logo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8"
     ]
@@ -428,22 +472,27 @@
     "name": "DMAX",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/dmax-logo-png_seeklogo-314611-removebg-preview.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
-     "https://sivrice.tv.vin/dmax.m3u8?tkn=VyfHqAANbTmAaJHK8S-8mA&tms=1787498096&hst=tv.vin&ip=37.114.182.148&utkn=88707ca5f68399eeb247228f1f9cb181&ch=d-max", "https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w176554823.m3u8?hash=48b1001dc9c8fc8a19a13a938bf90d03"
+      "https://sivrice.tv.vin/dmax.m3u8?tkn=VyfHqAANbTmAaJHK8S-8mA&tms=1787498096&hst=tv.vin&ip=37.114.182.148&utkn=88707ca5f68399eeb247228f1f9cb181&ch=d-max",
+      "https://yayin2.canlitv.fun/live/dmax.stream/chunklist_w176554823.m3u8?hash=48b1001dc9c8fc8a19a13a938bf90d03"
     ]
   },
   {
     "name": "TLC",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/tlc-tv.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
-     "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=aFZ3NWI5RTNOUnZxODU5NXllTnJzUFhUOVczMU5sQU9rSDJ4UUovallDRT0=&sid=8ouz3v2g3l5y&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3", "https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w1425607268.m3u8?hash=48b1001dc9c8fc8a19a13a938bf90d03"
+      "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=aFZ3NWI5RTNOUnZxODU5NXllTnJzUFhUOVczMU5sQU9rSDJ4UUovallDRT0=&sid=8ouz3v2g3l5y&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3",
+      "https://yayin2.canlitv.fun/live/tlc.stream/chunklist_w1425607268.m3u8?hash=48b1001dc9c8fc8a19a13a938bf90d03"
     ]
   },
   {
     "name": "NTV",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ntv-logo.png",
     "group": "Turkish",
+    "web_url": "",
     "urls": [
       "https://dogus.daioncdn.net/ntv/ntv_1080p.m3u8?token=bzVtNXpzVkY2YzFZNGtGR1poYzExOHpvRjlpa0ZGc3VPU0UrN01wT0xEdz0=&sid=8ift9i16robu&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3&="
     ]
