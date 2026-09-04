@@ -435,10 +435,9 @@
     "name": "Show Turk",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Show_Turk_logo.png",
     "group": "Turkish",
-    "web_url": "",
+    "web_url": "https://www.showturk.com.tr/canli-yayin",
     "urls": [
-      "https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8?e=1787490050&st=KQTjiSc8vkns_XPZpAlbEQ&tv=1",
-      "https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1787489823&st=a6e8oP1n9mVVkCjNi7maaw&tv=1"
+
     ]
   },
   {
