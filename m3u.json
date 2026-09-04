@@ -3,7 +3,7 @@
     "name": "AzTv",
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/AzTV_(2019).png",
     "group": "Azerbaijan",
-    "web_urls": "https://canlitv.com/az-tv",
+    "web_url": "https://canlitv.com/az-tv",
     "urls": [    
  "https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8",
       "https://az.tvstream.az/hls/stream9/stream.m3u8"
