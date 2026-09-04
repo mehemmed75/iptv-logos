@@ -94,7 +94,8 @@
     "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Biznes-TV-LOGO.webp",
     "group": "Azerbaijan",
     "urls": [
-      "https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8"
+      "https://str.yodacdn.net/biznestv/tracks-v1a1/mono.ts.m3u8",
+"https://biznestv.az/hls/live.m3u8"
     ]
   },
   {
