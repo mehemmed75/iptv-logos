@@ -367,6 +367,15 @@
         ]
     },
     {
+        "name": "ULKE TV",
+        "logo": "",
+        "group": "Turkish",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/livetv.radyotvonline.net\/kanal7live\/ulketv\/chunklist.m3u8"
+        ]
+    },
+    {
         "name": "Kanal 7 Avrupa",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/kanal7avrupa_logo.png",
         "group": "Turkish",
