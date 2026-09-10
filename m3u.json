@@ -543,6 +543,15 @@
         ]
     },
     {
+        "name": "Haberturk",
+        "logo": "",
+        "group": "Turkish",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/ciner.daioncdn.net\/haberturktv\/haberturktv_1080p.m3u8?sid=8qnufzeqpn46&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
+        ]
+    },
+    {
         "name": "A Haber",
         "logo": "",
         "group": "Turkish",
