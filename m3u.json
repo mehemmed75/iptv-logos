@@ -528,8 +528,7 @@
         "group": "Turkish",
         "web_urls": [],
         "urls": [
-            "https:\/\/tv-trtworld.medya.trt.com.tr\/master_720.m3u8
-https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8"
+            "https:\/\/tv-trtworld.medya.trt.com.tr\/master_720.m3u8\nhttps:\/\/tv-trtworld.medya.trt.com.tr\/master_1440.m3u8"
         ]
     },
     {
@@ -575,6 +574,15 @@ https://tv-trtworld.medya.trt.com.tr/master_1440.m3u8"
         "web_urls": [],
         "urls": [
             "https:\/\/trt.daioncdn.net\/trtspor\/master_1440p.m3u8?&sid=8qnfqireapmj&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2"
+        ]
+    },
+    {
+        "name": "TRT Eba",
+        "logo": "",
+        "group": "Turkish",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/tv-e-okul01.medya.trt.com.tr\/master_720.m3u8"
         ]
     },
     {
