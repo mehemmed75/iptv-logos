@@ -514,6 +514,15 @@
         ]
     },
     {
+        "name": "TAY Tv",
+        "logo": "",
+        "group": "Turkish",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/duhnet.hipodrom.com\/S2\/HLS_LIVE\/mislitaynp\/track_0_400\/playlist.m3u8"
+        ]
+    },
+    {
         "name": "CNN Turk",
         "logo": "",
         "group": "Turkish",
