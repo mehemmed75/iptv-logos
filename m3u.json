@@ -516,6 +516,15 @@
         ]
     },
     {
+        "name": "Tele1 TV",
+        "logo": "",
+        "group": "Turkish",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/tele1-live.ercdn.net\/tele1\/tele1_1080p.m3u8"
+        ]
+    },
+    {
         "name": "Akit tv",
         "logo": "",
         "group": "Turkish",
