@@ -499,9 +499,20 @@
         "name": "CNN Turk",
         "logo": "",
         "group": "Turkish",
-        "web_urls": ["https://www.cnnturk.com/canli-yayin"],
+        "web_urls": [
+            "https:\/\/www.cnnturk.com\/canli-yayin"
+        ],
         "urls": [
             "https:\/\/live.duhnet.tv\/\/S2\/HLS_LIVE\/cnnturknp\/track_2_550\/playlist.m3u8?&live=true&app=com.cnnturk&st=OUUbitf0DdIUp0XxUXlZ-w&e=1789057013"
+        ]
+    },
+    {
+        "name": "A Spor",
+        "logo": "",
+        "group": "Turkish",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/aspor\/aspor_480p.m3u8?hash=94215e472be74de3982644072902a9af"
         ]
     },
     {
