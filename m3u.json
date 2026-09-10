@@ -507,6 +507,15 @@
         ]
     },
     {
+        "name": "A Haber",
+        "logo": "",
+        "group": "Turkish",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/trkvz-live.ercdn.net\/ahaberhd\/ahaberhd_720p.m3u8?st=Vr5X26ZEqHIK-5-rgP8rDg&e=1789096651"
+        ]
+    },
+    {
         "name": "A Spor",
         "logo": "",
         "group": "Turkish",
