@@ -586,6 +586,15 @@
         ]
     },
     {
+        "name": "TRT Genc",
+        "logo": "",
+        "group": "Turkish",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/tv-trtgenc.medya.trt.com.tr\/master_1440.m3u8"
+        ]
+    },
+    {
         "name": "TRT Diyanet Çocuk",
         "logo": "",
         "group": "Turkish",
