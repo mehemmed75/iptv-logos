@@ -15,7 +15,9 @@
     "giris_sifresi": "444",
     "cihaz_limiti": 2,
     "bitis_tarihi": "10.10.2026 15:19",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "f9fb7172a5cbd7d1"
+    ],
     "aktif": true
   }
 ]
