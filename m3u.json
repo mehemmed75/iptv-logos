@@ -496,3 +496,13 @@
     ]
   }
 ]
+{
+    "name": "TRT Avaz",
+    "logo": " ",
+    "group": "Turkish",
+    "web_urls": [],
+    "urls": [
+      "https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8"
+    ]
+  }
+]
