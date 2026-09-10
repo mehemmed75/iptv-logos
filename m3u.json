@@ -810,7 +810,7 @@
         "name": "Cartoon Network",
         "logo": "",
         "group": "Turkish",
-        "web_urls": [],
+        "web_urls": ["https://canlitv.com/cartoon-network"],
         "urls": [
             "https:\/\/yayin2.canlitv.fun\/live\/cartoon-network.stream\/chunklist_w1135067287.m3u8?hash=a20af52306d7dd0f5bd71ec3ec681d5c"
         ]
