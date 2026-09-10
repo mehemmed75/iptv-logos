@@ -837,9 +837,9 @@
         "name": "Zarok Tv",
         "logo": "",
         "group": "Turkish",
-        "web_urls": [],
+        "web_urls": ["https://canlitv.com/zaroktv"],
         "urls": [
-            "https:\/\/zindikurmanci.zaroktv.com.tr\/hls\/0\/stream-Zw18y7lDR-52556.ts"
+            ""
         ]
     }
 ]
