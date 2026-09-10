@@ -10,5 +10,12 @@
       "7917610d841d645e"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "444",
+    "cihaz_limiti": 2,
+    "bitis_tarihi": "10.10.2026 15:19",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
