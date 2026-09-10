@@ -500,7 +500,7 @@
     "name": "TRT Avaz",
     "logo": " ",
     "group": "Turkish",
-    "web_urls": [https://www.trtavaz.com.tr/canli-izle],
+    "web_urls": ["https://www.trtavaz.com.tr/canli-izle"],
     "urls": [
       "https://tv-trtavaz.medya.trt.com.tr/master_1440.m3u8"
     ]
