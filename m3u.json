@@ -213,9 +213,8 @@
         "name": "CBC Sport",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/cbc_logo2-removebg-preview-300x275.png",
         "group": "Azerbaijan",
-        "web_urls": [],
+        "web_urls": ["https://cbcsport.tvstream.az/"],
         "urls": [
-            "https:\/\/cbcsport.tvstream.az\/hls\/stream3\/stream.m3u8",
             "https:\/\/cbcsports-live.lg.mncdn.com\/cbcsports_live\/cbcsports\/chunklist.m3u8"
         ]
     },
