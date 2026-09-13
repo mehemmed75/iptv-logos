@@ -92,7 +92,7 @@
         "name": "Idman",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/%C4%B0dman_TV_(2019).png",
         "group": "Azerbaijan",
-        "web_urls": ["https://idman.tvstream.az/"],
+        "web_urls": ["https://idman.tvstream.az/","https://idmantv.az/az"],
         "urls": [
            "https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8", "https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6Ijk0LjIwLjQyLjc3IiwidWEiOiJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE4XzcgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjYuMSBNb2JpbGUvMTUiLCJleHAiOjE3ODkzMTgxNzQsImp0aSI6IjVlMDQ5NTk3NjM3ZGI2MzMifQ%3D%3D.JnAmtXJZFPwa%2F3IfSkTkOZIW+ZA18Tb20EVKuput36Q%3D"
         ]
