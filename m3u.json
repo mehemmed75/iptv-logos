@@ -142,7 +142,7 @@
         "group": "Azerbaijan",
         "web_urls": ["https://canlitv.com/arb-24-tv","https://arb24.tvstream.az/"],
         "urls": [
-            "https://arb24.tvstream.az/hls/stream/index.m3u8"
+            
        
         ]
     },
