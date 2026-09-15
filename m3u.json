@@ -566,9 +566,9 @@
     },
     {
         "name": "TV4",
-        "logo": "https://www.tv4.com.tr/canli-yayin",
+        "logo":"https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png?v=1118",
         "group": "Turkish",
-        "web_urls": [],
+        "web_urls": ["https://www.tv4.com.tr/canli-yayin"],
         "urls": [
             "https:\/\/turkmedya-live.ercdn.net\/tv4\/tv4_720p.m3u8"
         ]
