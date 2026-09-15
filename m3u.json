@@ -281,7 +281,7 @@
     },
     {
         "name": "Ayaz Tv",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/site_logo.png",
         "group": "Azerbaijan",
         "web_urls": [],
         "urls": [
