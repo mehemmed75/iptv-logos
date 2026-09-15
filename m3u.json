@@ -602,7 +602,7 @@
     },
     {
         "name": "BRT1",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/brt1.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
