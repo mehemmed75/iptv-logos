@@ -501,7 +501,7 @@
     },
     {
         "name": "TJK TV",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/36-removebg-preview.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
