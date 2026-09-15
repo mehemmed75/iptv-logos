@@ -337,7 +337,7 @@
         "name": "ATV HD",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/atv-logo.png",
         "group": "Turkish",
-        "web_urls": [],
+        "web_urls": ["https://www.atv.com.tr/canli-yayin"],
         "urls": [
             
             "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/atv\/atv_1080p.m3u8"
