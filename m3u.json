@@ -274,7 +274,7 @@
         "name": "AzStar Tv",
         "logo": "",
         "group": "Azerbaijan",
-        "web_urls": [],
+        "web_urls": [https://azstartv.com/home/LiveTv],
         "urls": [
             "https:\/\/live.livestreamtv.ca\/azstar\/amlst:azstar\/tracks-v1a1\/mono.m3u8"
         ]
