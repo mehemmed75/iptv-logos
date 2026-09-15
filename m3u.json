@@ -641,7 +641,7 @@
     },
     {
         "name": "Haberturk",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Haberturk.png",
         "group": "Turkish",
         "web_urls": ["https://www.haberturk.com/canliyayin"],
         "urls": [
