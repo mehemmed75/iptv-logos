@@ -548,7 +548,7 @@
     },
     {
         "name": "TV100",
-        "logo": "https://s.tv100.com/assets/web/images/logo.svg",
+        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/tv100.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
