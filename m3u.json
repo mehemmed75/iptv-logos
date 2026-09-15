@@ -631,7 +631,7 @@
     },
     {
         "name": "Anadolu TV",
-        "logo": "",
+        "logo": "https://www.anadolunettv.com/d/r/logo.png",
         "group": "Turkish",
         "web_urls": ["https://www.anadolunettv.com/"],
         "urls": [
