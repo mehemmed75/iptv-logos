@@ -624,7 +624,7 @@
         "name": "Halk TV",
         "logo": "",
         "group": "Turkish",
-        "web_urls": [],
+        "web_urls": ["https://halktv.com.tr/canli-yayin"],
         "urls": [
             "https:\/\/halktv-live.daioncdn.net\/halktv\/halktv_1080p.m3u8"
         ]
