@@ -595,7 +595,7 @@
         "name": "YABAN Tv",
         "logo": "",
         "group": "Turkish",
-        "web_urls": ["https://www.yabantv.com/broadcast"],
+        "web_urls": ["https://www.yabantv.com/broadcast","https://canlitv.com/yaban-tv"],
         "urls": [
             ""
         ]
