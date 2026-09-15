@@ -530,7 +530,7 @@
     },
     {
         "name": "Tele1 TV",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/12887.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
