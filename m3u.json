@@ -612,7 +612,7 @@
     },
     {
         "name": "BRT2",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/brt2.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
