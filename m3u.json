@@ -557,7 +557,7 @@
     },
     {
         "name": "24tv",
-        "logo": "",
+        "logo": "https://www.yirmidort.tv/assets/header/logoWhite.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
