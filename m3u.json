@@ -593,7 +593,7 @@
     },
     {
         "name": "YABAN Tv",
-        "logo": "",
+        "logo": "https://www.yabantv.com/public/img/ayar/yabantv_logo.png",
         "group": "Turkish",
         "web_urls": ["https://www.yabantv.com/broadcast","https://canlitv.com/yaban-tv"],
         "urls": [
