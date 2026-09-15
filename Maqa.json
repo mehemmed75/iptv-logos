@@ -1,17 +1,5 @@
 [
   {
-    "giris_sifresi": "62735",
-    "cihaz_limiti": 4,
-    "bitis_tarihi": "10.09.2026 20:00",
-    "izinli_cihazlar": [
-      "f9fb7172a5cbd7d1",
-      "89331e9a164b922d",
-      "6e608532d56b85fd",
-      "7917610d841d645e"
-    ],
-    "aktif": false
-  },
-  {
     "giris_sifresi": "4444",
     "cihaz_limiti": 20,
     "bitis_tarihi": "20.10.2026 15:19",
