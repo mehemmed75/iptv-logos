@@ -519,7 +519,7 @@
     },
     {
         "name": "CNN Turk",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Screenshot_20260915-204417_Google%20Play%20Store.png",
         "group": "Turkish",
         "web_urls": [
             "https:\/\/www.cnnturk.com\/canli-yayin"
