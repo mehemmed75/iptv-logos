@@ -374,7 +374,7 @@
         "name": "Kanal 7 Avrupa",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/kanal7avrupa_logo.png",
         "group": "Turkish",
-        "web_urls": [],
+        "web_urls": ["https://www.kanal7avrupa.com/canli-izle"],
         "urls": [
             "https:\/\/livetv.radyotvonline.net\/kanal7live\/kanal7avr\/chunklist.m3u8"
         ]
