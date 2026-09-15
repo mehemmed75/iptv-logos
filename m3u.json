@@ -622,7 +622,7 @@
     },
     {
         "name": "Halk TV",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/halk.png",
         "group": "Turkish",
         "web_urls": ["https://halktv.com.tr/canli-yayin"],
         "urls": [
