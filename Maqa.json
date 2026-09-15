@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "giris_sifresi": "fap123",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "18.11.2026 01:15",
+    "izinli_cihazlar": [],
+    "aktif": true
+  }
+]
