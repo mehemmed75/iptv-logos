@@ -541,7 +541,7 @@
         "name": "Akit tv",
         "logo": "https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
         "group": "Turkish",
-        "web_urls": ["https://www.akittv.com.tr/canli-izle"],
+        "web_urls": ["https://www.akittv.com.tr/canli-izle","https://canlitv.com/akit-tv"],
         "urls": [
             "https:\/\/yayin2.canlitv.fun\/live\/akittv.stream\/chunklist_w1669188303.m3u8?hash=a20af52306d7dd0f5bd71ec3ec681d5c"
         ]
