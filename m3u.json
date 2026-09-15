@@ -272,7 +272,7 @@
     },
     {
         "name": "AzStar Tv",
-        "logo": "",
+        "logo": "https://azstartv.com/images/logo.png",
         "group": "Azerbaijan",
         "web_urls": [https://azstartv.com/home/LiveTv],
         "urls": [
