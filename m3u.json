@@ -4,21 +4,21 @@
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/AzTV_(2019).png",
         "group": "Azerbaijan",
         "web_urls": [
-            "https://canlitv.com/az-tv"
+            "https:\/\/canlitv.com\/az-tv"
         ],
         "urls": [
             "https:\/\/str.yodacdn.net\/azertv\/tracks-v1a1\/mono.ts.m3u8"
-            
         ]
     },
     {
         "name": "ATV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ATV_(2020-h.h.).png",
         "group": "Azerbaijan",
-        "web_urls": ["https://atv.tvstream.az/"],
+        "web_urls": [
+            "https:\/\/atv.tvstream.az\/"
+        ],
         "urls": [
             "https:\/\/lives.atv.az:5443\/ATV_TV_STREAM\/streams\/atvcanli.m3u8"
-            
         ]
     },
     {
@@ -44,10 +44,11 @@
         "name": "Ictimai TV SD",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ictimai-tv-seeklogo.png",
         "group": "Azerbaijan",
-        "web_urls": ["https://ictimai.tvstream.az/"],
+        "web_urls": [
+            "https:\/\/ictimai.tvstream.az\/"
+        ],
         "urls": [
-            "https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0",
-           
+            "https:\/\/live.itv.az\/itv.m3u8?bandwidth=3900&shift=0",
             "https:\/\/str.yodacdn.net\/ictimaitele\/tracks-v1a1\/mono.ts.m3u8?token=eyJpcCI6IjUuMTc4LjExLjEwMCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEwOyBLKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzg4NTQzNDgwLCJqdGkiOiI0OWE2OWRiMDkzMjZjZjEzIn0%3D.EtNiFYj2LtM59N6Led57YaCI4%2FbQMpeFWG537DqvMCA%3D"
         ]
     },
@@ -55,9 +56,10 @@
         "name": "Space TV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Space_TV_loqosu_(2021-2023).png",
         "group": "Azerbaijan",
-        "web_urls": ["https://space.tvstream.az/"],
+        "web_urls": [
+            "https:\/\/space.tvstream.az\/"
+        ],
         "urls": [
-            
             "https:\/\/str.yodacdn.net\/space\/tracks-v1a1\/mono.ts.m3u8?token=eyJpcCI6IjE4NS4xNDYuMTE1LjIxMCIsInVhIjoiTW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDEyOyBBbmRyb2lkVFYpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85OC4wLjQ3NTguODcgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4ODUyMzAwMywianRpIjoiYWRhYzc2YjhmYTc5MjkzMSJ9.pR+hPh+idWwflPvN27jz7lDSTiYO69aTLc5zlnNxL14%3D"
         ]
     },
@@ -92,9 +94,12 @@
         "name": "Idman",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/%C4%B0dman_TV_(2019).png",
         "group": "Azerbaijan",
-        "web_urls": ["https://idman.tvstream.az/"],
+        "web_urls": [
+            "https:\/\/idman.tvstream.az\/"
+        ],
         "urls": [
-           "https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8", "https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6Ijk0LjIwLjQyLjc3IiwidWEiOiJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE4XzcgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjYuMSBNb2JpbGUvMTUiLCJleHAiOjE3ODkzMTgxNzQsImp0aSI6IjVlMDQ5NTk3NjM3ZGI2MzMifQ%3D%3D.JnAmtXJZFPwa%2F3IfSkTkOZIW+ZA18Tb20EVKuput36Q%3D"
+            "https:\/\/str.yodacdn.net\/idmantele\/tracks-v1a1\/mono.ts.m3u8",
+            "https:\/\/str.yodacdn.net\/idmantele\/tracks-v1a1\/mono.ts.m3u8?token=eyJpcCI6Ijk0LjIwLjQyLjc3IiwidWEiOiJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE4XzcgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzI2LjYuMSBNb2JpbGUvMTUiLCJleHAiOjE3ODkzMTgxNzQsImp0aSI6IjVlMDQ5NTk3NjM3ZGI2MzMifQ%3D%3D.JnAmtXJZFPwa%2F3IfSkTkOZIW+ZA18Tb20EVKuput36Q%3D"
         ]
     },
     {
@@ -129,7 +134,9 @@
         "name": "ARB",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ARB-removebg-preview.png",
         "group": "Azerbaijan",
-        "web_urls": ["https://arb.tvstream.az/"],
+        "web_urls": [
+            "https:\/\/arb.tvstream.az\/"
+        ],
         "urls": [
             "https:\/\/str.yodacdn.net\/arb\/tracks-v1a1\/mono.ts.m3u8?token=eyJpcCI6IjE5My4zNy40MS4xMTgiLCJ1YSI6Ik1vemlsbGEvNS4wIChMaW51eDsgQW5kcm9pZCAxMDsgSykgQXBwbGVXZWJLaXQvNTM3Lj32IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzE0OS4wLjAuMCBNb2JpbGUgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzU5MzYwMSwianRpIjoiODA5ODJiMmY5YzU5N2Q0NSJ9.jxNHLvTwSPgvlkoH75fEbw2iPuFEGoSGkEraHWwzrwA%3D"
         ]
@@ -138,11 +145,11 @@
         "name": "ARB 24",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ARB_24_logo1.png",
         "group": "Azerbaijan",
-        "web_urls": ["https://canlitv.com/arb-24-tv","https://arb24.tvstream.az/"],
-        "urls": [
-            
-       
-        ]
+        "web_urls": [
+            "https:\/\/canlitv.com\/arb-24-tv",
+            "https:\/\/arb24.tvstream.az\/"
+        ],
+        "urls": []
     },
     {
         "name": "ARB Gunes",
@@ -211,7 +218,9 @@
         "name": "CBC Sport",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/cbc_logo2-removebg-preview-300x275.png",
         "group": "Azerbaijan",
-        "web_urls": ["https://cbcsport.tvstream.az/"],
+        "web_urls": [
+            "https:\/\/cbcsport.tvstream.az\/"
+        ],
         "urls": [
             "https:\/\/cbcsports-live.lg.mncdn.com\/cbcsports_live\/cbcsports\/chunklist.m3u8"
         ]
@@ -229,14 +238,14 @@
         "name": "Real Tv",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/real%20tv_azerbaijan.png",
         "group": "Azerbaijan",
-        "web_urls": ["https://realtv.tvstream.az/"],
-        "urls": [
-         
-        ]
+        "web_urls": [
+            "https:\/\/realtv.tvstream.az\/"
+        ],
+        "urls": []
     },
     {
         "name": "Hadi Tv Az",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/unnamed.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/unnamed.png",
         "group": "Azerbaijan",
         "web_urls": [],
         "urls": [
@@ -245,7 +254,7 @@
     },
     {
         "name": "Kanal 35 Az",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Kanal_35_(loqo).png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Kanal_35_(loqo).png",
         "group": "Azerbaijan",
         "web_urls": [],
         "urls": [
@@ -254,7 +263,7 @@
     },
     {
         "name": "Konul Tv Az",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Screenshot_20260915-155341_YouTube-removebg-preview.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Screenshot_20260915-155341_YouTube-removebg-preview.png",
         "group": "Azerbaijan",
         "web_urls": [],
         "urls": [
@@ -263,7 +272,7 @@
     },
     {
         "name": "Show+ Tv Az",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/01JRHWF3SKZ9XSYZ704EW1RRPP-removebg-preview.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/01JRHWF3SKZ9XSYZ704EW1RRPP-removebg-preview.png",
         "group": "Azerbaijan",
         "web_urls": [],
         "urls": [
@@ -272,16 +281,18 @@
     },
     {
         "name": "AzStar Tv",
-        "logo": "https://azstartv.com/images/logo.png",
+        "logo": "https:\/\/azstartv.com\/images\/logo.png",
         "group": "Azerbaijan",
-        "web_urls": ["https://azstartv.com/home/LiveTv"],
+        "web_urls": [
+            "https:\/\/azstartv.com\/home\/LiveTv"
+        ],
         "urls": [
             "https:\/\/live.livestreamtv.ca\/azstar\/amlst:azstar\/tracks-v1a1\/mono.m3u8"
         ]
     },
     {
         "name": "Ayaz Tv",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/site_logo.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/site_logo.png",
         "group": "Azerbaijan",
         "web_urls": [],
         "urls": [
@@ -290,11 +301,20 @@
     },
     {
         "name": "VIP HD Tv",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/img_2_1789488228095.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/img_2_1789488228095.png",
         "group": "Azerbaijan",
         "web_urls": [],
         "urls": [
             "https:\/\/str.yodacdn.net\/vip\/tracks-v1a1\/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMS4xMzMiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzQzOTA4OSwianRpIjoiOTAxMzRiNDRiNzE1YjI5ZSJ9.NoLhRs%2FsPYsUXsCBXR2TAOHSAVl%2F8O99h6AT634tZLk%3D"
+        ]
+    },
+    {
+        "name": "FAP TV3",
+        "logo": "",
+        "group": "Turkish",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/tvcdnpotok.com\/npgjkPpXMr-VMnBsAVdR-g\/27\/1789524740\/index.m3u8"
         ]
     },
     {
@@ -329,7 +349,7 @@
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Euro_Star_loqosu_(3_yanvar_2012-indi).png",
         "group": "Turkish",
         "web_urls": [
-            "https://www.eurostartv.com.tr/canli-izle"
+            "https:\/\/www.eurostartv.com.tr\/canli-izle"
         ],
         "urls": []
     },
@@ -337,9 +357,10 @@
         "name": "ATV HD",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/atv-logo.png",
         "group": "Turkish",
-        "web_urls": ["https://www.atv.com.tr/canli-yayin"],
+        "web_urls": [
+            "https:\/\/www.atv.com.tr\/canli-yayin"
+        ],
         "urls": [
-            
             "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/atv\/atv_1080p.m3u8"
         ]
     },
@@ -356,14 +377,16 @@
         "name": "Kanal 7 HD",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/kanal7-seeklogo.png",
         "group": "Turkish",
-        "web_urls": ["https://www.kanal7.com/canli-izle"],
+        "web_urls": [
+            "https:\/\/www.kanal7.com\/canli-izle"
+        ],
         "urls": [
             "https:\/\/kanal7.daioncdn.net\/kanal7\/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1"
         ]
     },
     {
         "name": "ULKE TV",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/ulketv-logo-turk-bayragi-1-removebg-preview.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ulketv-logo-turk-bayragi-1-removebg-preview.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
@@ -374,7 +397,9 @@
         "name": "Kanal 7 Avrupa",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/kanal7avrupa_logo.png",
         "group": "Turkish",
-        "web_urls": ["https://canlitv.com/kanal-7-avrupa"],
+        "web_urls": [
+            "https:\/\/canlitv.com\/kanal-7-avrupa"
+        ],
         "urls": [
             "https:\/\/livetv.radyotvonline.net\/kanal7live\/kanal7avr\/chunklist.m3u8"
         ]
@@ -423,7 +448,9 @@
         "web_urls": [
             ""
         ],
-        "urls": ["https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8"]
+        "urls": [
+            "https:\/\/uycyyuuzyh.turknet.ercdn.net\/nphindgytw\/nowtv\/nowtv_720p.m3u8"
+        ]
     },
     {
         "name": "Show Tv",
@@ -501,7 +528,7 @@
     },
     {
         "name": "TJK TV",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/36-removebg-preview.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/36-removebg-preview.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
@@ -510,7 +537,7 @@
     },
     {
         "name": "TAY Tv",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Screenshot_20260915-203839_Google%20Play%20Store.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Screenshot_20260915-203839_Google%20Play%20Store.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
@@ -519,7 +546,7 @@
     },
     {
         "name": "CNN Turk",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Screenshot_20260915-204417_Google%20Play%20Store.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Screenshot_20260915-204417_Google%20Play%20Store.png",
         "group": "Turkish",
         "web_urls": [
             "https:\/\/www.cnnturk.com\/canli-yayin"
@@ -530,7 +557,7 @@
     },
     {
         "name": "Tele1 TV",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/12887.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/12887.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
@@ -539,16 +566,18 @@
     },
     {
         "name": "Akit tv",
-        "logo": "https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
+        "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/tr\/c\/cf\/Akit_TV.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
         "group": "Turkish",
-        "web_urls": ["https://canlitv.com/akit-tv"],
+        "web_urls": [
+            "https:\/\/canlitv.com\/akit-tv"
+        ],
         "urls": [
             ""
         ]
     },
     {
         "name": "TV100",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/tv100.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/tv100.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
@@ -557,7 +586,7 @@
     },
     {
         "name": "24tv",
-        "logo": "https://www.yirmidort.tv/assets/header/logoWhite.png",
+        "logo": "https:\/\/www.yirmidort.tv\/assets\/header\/logoWhite.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
@@ -566,16 +595,18 @@
     },
     {
         "name": "TV4",
-        "logo":"https://www.turkmedya.com.tr/assets/img/logo/logo_tv4.png",
+        "logo": "https:\/\/www.turkmedya.com.tr\/assets\/img\/logo\/logo_tv4.png",
         "group": "Turkish",
-        "web_urls": ["https://www.tv4.com.tr/canli-yayin"],
+        "web_urls": [
+            "https:\/\/www.tv4.com.tr\/canli-yayin"
+        ],
         "urls": [
             "https:\/\/turkmedya-live.ercdn.net\/tv4\/tv4_720p.m3u8"
         ]
     },
     {
         "name": "360 Tv",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/37/360-tr.png",
+        "logo": "https:\/\/static.wikia.nocookie.net\/logopedia\/images\/3\/37\/360-tr.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
@@ -584,7 +615,7 @@
     },
     {
         "name": "Ada TV",
-        "logo": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/ada-tv-buyuk.png",
+        "logo": "https:\/\/www.digiturkburada.com.tr\/kanal3\/kanal-buyuk\/ada-tv-buyuk.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
@@ -593,26 +624,28 @@
     },
     {
         "name": "YABAN Tv",
-        "logo": "https://www.yabantv.com/public/img/ayar/yabantv_logo.png",
+        "logo": "https:\/\/www.yabantv.com\/public\/img\/ayar\/yabantv_logo.png",
         "group": "Turkish",
-        "web_urls": ["https://www.yabantv.com/broadcast","https://canlitv.com/yaban-tv"],
+        "web_urls": [
+            "https:\/\/www.yabantv.com\/broadcast",
+            "https:\/\/canlitv.com\/yaban-tv"
+        ],
         "urls": [
             ""
         ]
     },
     {
         "name": "BRT1",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/brt1.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/brt1.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
-            
             "https:\/\/edge.kuzeykibrissmart.tv\/brt1hd\/bant1\/playlist.m3u8"
         ]
     },
     {
         "name": "BRT2",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/brt2.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/brt2.png",
         "group": "Turkish",
         "web_urls": [],
         "urls": [
@@ -622,28 +655,33 @@
     },
     {
         "name": "Halk TV",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/halk.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/halk.png",
         "group": "Turkish",
-        "web_urls": ["https://halktv.com.tr/canli-yayin"],
+        "web_urls": [
+            "https:\/\/halktv.com.tr\/canli-yayin"
+        ],
         "urls": [
             "https:\/\/halktv-live.daioncdn.net\/halktv\/halktv_1080p.m3u8"
         ]
     },
     {
         "name": "Anadolu TV",
-        "logo": "https://www.anadolunettv.com/d/r/logo.png",
+        "logo": "https:\/\/www.anadolunettv.com\/d\/r\/logo.png",
         "group": "Turkish",
-        "web_urls": ["https://canlitv.com/anadolu-net-tv"],
+        "web_urls": [
+            "https:\/\/canlitv.com\/anadolu-net-tv"
+        ],
         "urls": [
-            
             "https:\/\/live.artidijitalmedya.com\/artidijital_anadolunet\/anadolunet\/playlist.m3u8"
         ]
     },
     {
         "name": "Haberturk",
-        "logo": "https://raw.githubusercontent.com/mehemmed75/iptv-logos/refs/heads/main/Haberturk.png",
+        "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Haberturk.png",
         "group": "Turkish",
-        "web_urls": ["https://www.haberturk.com/canliyayin"],
+        "web_urls": [
+            "https:\/\/www.haberturk.com\/canliyayin"
+        ],
         "urls": [
             "https:\/\/ciner.daioncdn.net\/haberturktv\/haberturktv_1080p.m3u8?sid=8qnufzeqpn46&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
         ]
@@ -751,7 +789,9 @@
         "name": "FB TV",
         "logo": "",
         "group": "Turkish",
-        "web_urls": ["https://canlitv.com/fb-tv"],
+        "web_urls": [
+            "https:\/\/canlitv.com\/fb-tv"
+        ],
         "urls": [
             ""
         ]
@@ -805,7 +845,9 @@
         "name": "Cartoon Network",
         "logo": "",
         "group": "Turkish",
-        "web_urls": ["https://canlitv.com/cartoon-network"],
+        "web_urls": [
+            "https:\/\/canlitv.com\/cartoon-network"
+        ],
         "urls": [
             ""
         ]
@@ -832,7 +874,9 @@
         "name": "Zarok Tv",
         "logo": "",
         "group": "Turkish",
-        "web_urls": ["https://canlitv.com/zaroktv"],
+        "web_urls": [
+            "https:\/\/canlitv.com\/zaroktv"
+        ],
         "urls": [
             ""
         ]
