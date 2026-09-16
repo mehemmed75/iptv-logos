@@ -483,7 +483,7 @@
         "name": "A2",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/A2_logosu.jpg",
         "group": "Turkish",
-        "web_urls": ["https://www.sabah.com.tr/video/canli-yayin/a2tv"],
+        "web_urls": ["https://www.sabah.com.tr/video/canli-yayin/a2tv","https://canlitv.com/canli-a2-izle"],
         "urls": [
             
             "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/a2tv\/a2tv_1080p.m3u8"
