@@ -3,7 +3,7 @@
         "name": "AzTv",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/AzTV_(2019).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/canlitv.com\/az-tv"
         ],
@@ -18,7 +18,7 @@
         "name": "ATV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ATV_(2020-h.h.).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/atv.tvstream.az\/"
         ],
@@ -33,7 +33,7 @@
         "name": "Mədəniyyət Tv",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/M%C9%99d%C9%99niyy%C9%99t_TV_(2019).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/str.yodacdn.net\/medeniyyettele\/tracks-v1a1\/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMS4xMzMiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzQzOTA4OSwianRpIjoiOTAxMzRiNDRiNzE1YjI5ZSJ9.NoLhRs%2FsPYsUXsCBXR2TAOHSAVl%2F8O99h6AT634tZLk%3D"
@@ -46,7 +46,7 @@
         "name": "Xezer TV (720P)",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/xezerrr-removebg-preview.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/str.yodacdn.net\/xazartv\/tracks-v1a1\/mono.ts.m3u8",
@@ -60,7 +60,7 @@
         "name": "Ictimai TV SD",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ictimai-tv-seeklogo.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/ictimai.tvstream.az\/"
         ],
@@ -76,7 +76,7 @@
         "name": "Space TV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Space_TV_loqosu_(2021-2023).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/space.tvstream.az\/"
         ],
@@ -91,7 +91,7 @@
         "name": "Dunya TV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/D%C3%BCnya_TV__2019-h.h._-removebg-preview.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/stream.dunyatv.az\/live\/dunyatv.m3u8"
@@ -104,7 +104,7 @@
         "name": "Baku TV (720p)",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Baku_TV__2018_-removebg-preview.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/rtmp.baku.tv\/hls\/bakutv_1080p.m3u8"
@@ -117,7 +117,7 @@
         "name": "Kapaz TV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Kapaz_TV_Logo_2019.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "http:\/\/85.132.78.122:8050\/hls\/stream\/index.m3u8"
@@ -130,7 +130,7 @@
         "name": "Idman",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/%C4%B0dman_TV_(2019).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/idman.tvstream.az\/"
         ],
@@ -146,7 +146,7 @@
         "name": "Biznes",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Biznes-TV-LOGO.webp",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/str.yodacdn.net\/biznestv\/tracks-v1a1\/mono.ts.m3u8",
@@ -160,7 +160,7 @@
         "name": "Naxçıvan",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Nax%C3%A7%C4%B1van_TV_(2025).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/str2.yodacdn.net\/ntv\/tracks-v1a1\/mono.ts.m3u8"
@@ -173,7 +173,7 @@
         "name": "Qafqaz Tv",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Qafqaz_TV_(2017-h.h.).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "http:\/\/str.yodacdn.net\/qafkaz\/tracks-v1a1\/mono.ts.m3u8"
@@ -186,7 +186,7 @@
         "name": "ARB",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ARB-removebg-preview.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/arb.tvstream.az\/"
         ],
@@ -201,7 +201,7 @@
         "name": "ARB 24",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ARB_24_logo1.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/canlitv.com\/arb-24-tv",
             "https:\/\/arb24.tvstream.az\/"
@@ -215,7 +215,7 @@
         "name": "ARB Gunes",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/ARB_Gunesh_Logo.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/canlitv.com\/arb-gunes-tv"
         ],
@@ -228,7 +228,7 @@
         "name": "APA",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/APA_TV_loqo.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "http:\/\/str.yodacdn.net\/apatv\/tracks-v1a1\/mono.ts.m3u8"
@@ -241,7 +241,7 @@
         "name": "Kanal S TV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Kanal_S_loqosu_(2022).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/lives.atv.az:5443\/KANAL-S\/streams\/kanals.m3u8"
@@ -254,7 +254,7 @@
         "name": "EL",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/EL_TV_loqosu_(2020).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/str.yodacdn.net\/eltv\/tracks-v1a1\/mono.ts.m3u8"
@@ -267,7 +267,7 @@
         "name": "MTV TV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/MTV_Azerbaijan_Logo.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/bstelevision.com\/proxy.php?url=https%3A%2F%2Fst2.mediabay.tv%2FAzer_Music_HD%2Ftracks-v1a1%2Fmono.m3u8%3F_t%3D1787427191%26token%3Dfd7d7fd16447dffcbd6fde3c4a4d6d863966f205-688e3e5109903b6c284475bd75ae1340-1787437691-1787426891"
@@ -280,7 +280,7 @@
         "name": "TMB TV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/tmbtaz-png.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/str.yodacdn.net\/tmbaz\/tracks-v1a1\/mono.ts.m3u8"
@@ -293,7 +293,7 @@
         "name": "GünazTV",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/G%C3%BCnAz_TV.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/tv.gunaz.tv\/hls\/live.m3u8"
@@ -306,7 +306,7 @@
         "name": "CBC Sport",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/cbc_logo2-removebg-preview-300x275.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/cbcsport.tvstream.az\/"
         ],
@@ -321,7 +321,7 @@
         "name": "CBC",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/cbclogo.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/canlitv.com\/cbc-tv"
         ],
@@ -334,7 +334,7 @@
         "name": "Real Tv",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/real%20tv_azerbaijan.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/realtv.tvstream.az\/"
         ],
@@ -347,7 +347,7 @@
         "name": "Hadi Tv Az",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/unnamed.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/amsterdam.zeuscdn724.com:443\/H3\/tracks-v4a1\/mono.ts.m3u8"
@@ -360,7 +360,7 @@
         "name": "Kanal 35 Az",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Kanal_35_(loqo).png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/str.yodacdn.net\/kanal35\/tracks-v1a1\/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMS4xMzMiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzQzOTA4OSwianRpIjoiOTAxMzRiNDRiNzE1YjI5ZSJ9.NoLhRs%2FsPYsUXsCBXR2TAOHSAVl%2F8O99h6AT634tZLk%3D"
@@ -373,7 +373,7 @@
         "name": "Konul Tv Az",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/Screenshot_20260915-155341_YouTube-removebg-preview.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "http:\/\/cdn-konultvazerbaijan.yayin.com.tr\/konultvazerbaijan\/konultvazerbaijan\/tracks-v1a1\/mono.m3u8"
@@ -386,7 +386,7 @@
         "name": "Show+ Tv Az",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/01JRHWF3SKZ9XSYZ704EW1RRPP-removebg-preview.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/rtmp.showplus.tv\/hls\/myshow.m3u8"
@@ -399,7 +399,7 @@
         "name": "AzStar Tv",
         "logo": "https:\/\/azstartv.com\/images\/logo.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/azstartv.com\/home\/LiveTv"
         ],
@@ -414,7 +414,7 @@
         "name": "Ayaz Tv",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/site_logo.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/janya-ayaztv.vgcdn.net\/ptnr-WebApp\/title-Ayaz_TV\/v1\/vglive-sk-934820\/AyazTV_2500k.m3u8"
@@ -427,7 +427,7 @@
         "name": "VIP HD Tv",
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/img_2_1789488228095.png",
         "group": "Azerbaijan",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [],
         "urls": [
             "https:\/\/str.yodacdn.net\/vip\/tracks-v1a1\/mono.ts.m3u8?token=eyJpcCI6IjM3LjYxLjEyMS4xMzMiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjQuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImV4cCI6MTc4NzQzOTA4OSwianRpIjoiOTAxMzRiNDRiNzE1YjI5ZSJ9.NoLhRs%2FsPYsUXsCBXR2TAOHSAVl%2F8O99h6AT634tZLk%3D"
