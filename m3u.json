@@ -459,7 +459,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/demiroren.daioncdn.net\/kanald\/kanald_1080p.m3u8?&sid=8h0k652p7uau&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Euro D",
@@ -469,7 +472,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tatatam.trt1sultanfatihss.workers.dev\/https:\/\/live.duhnet.tv\/S2\/HLS_LIVE\/eurodnp\/track_4_1000\/playlist.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Star Tv (720P)",
@@ -479,7 +485,10 @@
         "web_urls": [
             "https:\/\/canlitv.com\/star-tv-canli"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Euro Star (1080P)",
@@ -489,7 +498,10 @@
         "web_urls": [
             "https:\/\/www.eurostartv.com.tr\/canli-izle"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "ATV HD",
@@ -501,7 +513,10 @@
         ],
         "urls": [
             "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/atv\/atv_1080p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "ATV Avrupa 576P(SD)",
@@ -511,7 +526,10 @@
         "web_urls": [
             "https:\/\/www.atvavrupa.tv\/canli-yayin"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Kanal 7 HD",
@@ -523,7 +541,10 @@
         ],
         "urls": [
             "https:\/\/kanal7.daioncdn.net\/kanal7\/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "ULKE TV",
@@ -533,7 +554,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/livetv.radyotvonline.net\/kanal7live\/ulketv\/chunklist.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Kanal 7 Avrupa",
@@ -545,7 +569,10 @@
         ],
         "urls": [
             "https:\/\/livetv.radyotvonline.net\/kanal7live\/kanal7avr\/chunklist.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TV8",
@@ -555,7 +582,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/rkhubpaomb.turknet.ercdn.net\/fwjkgpasof\/tv8\/tv8_1080p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TV8.5",
@@ -565,7 +595,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/rkhubpaomb.turknet.ercdn.net\/fwjkgpasof\/tv8bucuk\/tv8bucuk_1080p.m3u8?hash=bd3176256c2cd92fb33aabbda132f309"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TV8 INT",
@@ -575,7 +608,10 @@
         "web_urls": [
             "https:\/\/tr.canlitv.watch\/tv8-int"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT1 HD",
@@ -586,7 +622,10 @@
         "urls": [
             "https:\/\/trt.daioncdn.net\/trt-1\/master_1440p.m3u8?=&sid=8iy2cllpsf8c&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2",
             "https:\/\/tv-trt1.medya.trt.com.tr\/master_1440.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "NOW TV",
@@ -598,7 +637,10 @@
         ],
         "urls": [
             "https:\/\/uycyyuuzyh.turknet.ercdn.net\/nphindgytw\/nowtv\/nowtv_720p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Show Tv",
@@ -608,7 +650,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/ciner.daioncdn.net\/showtv\/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8ifwf4r67h3z&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Show Turk",
@@ -618,7 +663,10 @@
         "web_urls": [
             "https:\/\/www.showturk.com.tr\/canli-yayin"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Show Max",
@@ -628,7 +676,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/rmtftbjlne.turknet.ercdn.net\/bpeytmnqyp\/showmax\/showmax_1080p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "A2",
@@ -642,7 +693,10 @@
         "urls": [
             "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/a2tv\/a2tv_720p.m3u8",
             "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/a2tv\/a2tv_1080p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "BEYAZ TV",
@@ -652,7 +706,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/beyaztv-live.daioncdn.net\/beyaztv\/beyaztv_1080p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "DMAX",
@@ -663,7 +720,10 @@
             "https:\/\/canlitv.com\/dmax-canli-yayin",
             "https:\/\/tr.canlitv.watch\/d-max\/2"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TLC",
@@ -673,7 +733,10 @@
         "web_urls": [
             "https:\/\/canlitv.com\/tlc"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "NTV",
@@ -683,7 +746,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/dogus.daioncdn.net\/ntv\/ntv_1080p.m3u8?token=bzVtNXpzVkY2YzFZNGtGR1poYzExOHpvRjlpa0ZGc3VPU0UrN01wT0xEdz0=&sid=8ift9i16robu&app=7c4bb802-0c41-409e-8cd2-799984995694&ce=3&="
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TJK TV",
@@ -693,7 +759,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tjktv-live.tjk.org\/tjktv_1080p.m3u8?hash=a20af52306d7dd0f5bd71ec3ec681d5c"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TAY Tv",
@@ -703,7 +772,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/duhnet.hipodrom.com\/S2\/HLS_LIVE\/mislitaynp\/track_0_400\/playlist.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "CNN Turk",
@@ -715,7 +787,10 @@
         ],
         "urls": [
             "https:\/\/live.duhnet.tv\/\/S2\/HLS_LIVE\/cnnturknp\/track_2_550\/playlist.m3u8?&live=true&app=com.cnnturk&st=OUUbitf0DdIUp0XxUXlZ-w&e=1789057013"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Tele1 TV",
@@ -725,7 +800,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tele1-live.ercdn.net\/tele1\/tele1_1080p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Akit tv",
@@ -737,7 +815,10 @@
         ],
         "urls": [
             ""
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TV100",
@@ -747,7 +828,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/yayin2.canlitv.fun\/live\/tv100.stream\/chunklist_w1162433504.m3u8?hash=a20af52306d7dd0f5bd71ec3ec681d5c"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "24tv",
@@ -757,7 +841,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/turkmedya-live.ercdn.net\/tv24\/tv24_1080p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TV4",
@@ -769,7 +856,10 @@
         ],
         "urls": [
             "https:\/\/turkmedya-live.ercdn.net\/tv4\/tv4_720p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "360 Tv",
@@ -779,7 +869,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/turkmedya-live.ercdn.net\/tv360\/tv360_720p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Ada TV",
@@ -789,7 +882,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/yayin1.canlitv.fun\/live\/kibrisadatv.stream\/chunklist_w760605007.m3u8?hash=a20af52306d7dd0f5bd71ec3ec681d5c"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "YABAN Tv",
@@ -802,7 +898,10 @@
         ],
         "urls": [
             ""
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "BRT1",
@@ -812,7 +911,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/edge.kuzeykibrissmart.tv\/brt1hd\/bant1\/playlist.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "BRT2",
@@ -823,7 +925,10 @@
         "urls": [
             "https:\/\/edge.kuzeykibrissmart.tv\/brt2hd\/bant1\/chunks.m3u8?nimblesessionid=226632312",
             "https:\/\/edge.kuzeykibrissmart.tv\/brt2hd\/bant1\/playlist.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Halk TV",
@@ -835,7 +940,10 @@
         ],
         "urls": [
             "https:\/\/halktv-live.daioncdn.net\/halktv\/halktv_1080p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Anadolu TV",
@@ -847,7 +955,10 @@
         ],
         "urls": [
             "https:\/\/live.artidijitalmedya.com\/artidijital_anadolunet\/anadolunet\/playlist.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Haberturk",
@@ -859,7 +970,10 @@
         ],
         "urls": [
             "https:\/\/ciner.daioncdn.net\/haberturktv\/haberturktv_1080p.m3u8?sid=8qnufzeqpn46&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "A Haber",
@@ -869,7 +983,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/trkvz-live.ercdn.net\/ahaberhd\/ahaberhd_720p.m3u8?st=Vr5X26ZEqHIK-5-rgP8rDg&e=1789096651"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "A Spor",
@@ -879,7 +996,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/aspor\/aspor_480p.m3u8?hash=94215e472be74de3982644072902a9af"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Arabi",
@@ -889,7 +1009,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtarabi.medya.trt.com.tr\/master_1440.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Turk",
@@ -899,7 +1022,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtturk.medya.trt.com.tr\/master_1440.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Kurdi",
@@ -909,7 +1035,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtkurdi.medya.trt.com.tr\/master_1440.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT World",
@@ -919,7 +1048,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtworld.medya.trt.com.tr\/master_720.m3u8\nhttps:\/\/tv-trtworld.medya.trt.com.tr\/master_1440.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Avaz",
@@ -929,7 +1061,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtavaz.medya.trt.com.tr\/master_1080.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Belgesel",
@@ -939,7 +1074,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtbelgesel-dai.medya.trt.com.tr\/master_3.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Haber",
@@ -949,7 +1087,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trthaber.medya.trt.com.tr\/master_1440p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Muzik",
@@ -959,7 +1100,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtmuzik.medya.trt.com.tr\/master_1440.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Spor",
@@ -969,7 +1113,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/trt.daioncdn.net\/trtspor\/master_1440p.m3u8?&sid=8qnfqireapmj&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "FB TV",
@@ -979,7 +1126,10 @@
         "web_urls": [
             "https:\/\/canlitv.com\/fb-tv"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Tivibu Spor",
@@ -989,7 +1139,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/yayin2.canlitv.fun\/live\/tivibuspor.stream\/chunklist_w171446027.m3u8?hash=a20af52306d7dd0f5bd71ec3ec681d5c"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Eba",
@@ -999,7 +1152,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-e-okul01.medya.trt.com.tr\/master_720.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Genc",
@@ -1009,7 +1165,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtgenc.medya.trt.com.tr\/master_1440.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Diyanet Çocuk",
@@ -1019,7 +1178,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtdiyanetcocuk.medya.trt.com.tr\/master_1440.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "TRT Çocuk",
@@ -1029,7 +1191,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/tv-trtcocuk.medya.trt.com.tr\/master_1440.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Cartoon Network",
@@ -1039,7 +1204,10 @@
         "web_urls": [
             "https:\/\/canlitv.com\/cartoon-network"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Minika Çocuk",
@@ -1049,7 +1217,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/minikago_cocuk\/minikago_cocuk_720p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Minika Go",
@@ -1059,7 +1230,10 @@
         "web_urls": [],
         "urls": [
             "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/minikago\/minikago_720p.m3u8"
-        ]
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     },
     {
         "name": "Zarok Tv",
@@ -1069,6 +1243,9 @@
         "web_urls": [
             "https:\/\/canlitv.com\/zaroktv"
         ],
-        "urls": []
+        "urls": [],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     }
 ]
