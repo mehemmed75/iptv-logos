@@ -325,7 +325,7 @@
         "web_urls": [
             "https:\/\/canlitv.com\/cbc-tv"
         ],
-        "urls": [],
+        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/2ac3f7a3e229284768f2cac74cd1970e3b4cab36-437-0-knn576995-3-628273496-1789666573-e128-QVCsiNexFYv8-0KDy5ejFzqLV33cP7VspMuEtz4oEvI/1500.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/2ac3f7a3e229284768f2cac74cd1970e3b4cab36-437-0-knn576995-3-628273496-1789666573-e128-QVCsiNexFYv8-0KDy5ejFzqLV33cP7VspMuEtz4oEvI/1500.m3u8?ml=true","https://stream2.katv1.platform24.tv/hlsjwt/2ac3f7a3e229284768f2cac74cd1970e3b4cab36-437-0-knn576995-3-628273496-1789666573-e128-QVCsiNexFYv8-0KDy5ejFzqLV33cP7VspMuEtz4oEvI/index.m3u8"],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
