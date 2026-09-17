@@ -521,7 +521,7 @@
             "https:\/\/www.atv.com.tr\/canli-yayin"
         ],
         "urls": [
-            "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/atv\/atv_1080p.m3u8"
+            "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/atv\/atv_1080p.m3u8","https://stream1.katv1.platform24.tv/hlsjwt/6ae7fcad397f43ef3162323e557dc0360662e7aa-2564-0-knn576995-3-628273496-1789658983-e128-THacwZuJxUK5eP7h4UGYnCPe6mptRfHHkogd_SGfeKg/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
