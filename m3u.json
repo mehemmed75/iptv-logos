@@ -206,7 +206,7 @@
             "https:\/\/canlitv.com\/arb-24-tv",
             "https:\/\/arb24.tvstream.az\/"
         ],
-        "urls": [],
+        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/39c794d300559f7e92d6d07a7d808e43d08667b6-6704-0-knn576995-3-628273496-1789666461-e128-x37yLb6LnlYG-mkOwgxj3GkjzhCLbUmli8xTltvMgq4/1500.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/39c794d300559f7e92d6d07a7d808e43d08667b6-6704-0-knn576995-3-628273496-1789666461-e128-x37yLb6LnlYG-mkOwgxj3GkjzhCLbUmli8xTltvMgq4/1500.m3u8?ml=true","https://stream2.katv1.platform24.tv/hlsjwt/39c794d300559f7e92d6d07a7d808e43d08667b6-6704-0-knn576995-3-628273496-1789666461-e128-x37yLb6LnlYG-mkOwgxj3GkjzhCLbUmli8xTltvMgq4/index.m3u8"],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
