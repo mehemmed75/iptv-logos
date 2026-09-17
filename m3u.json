@@ -1295,7 +1295,21 @@
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
+    },
+ {
+        "name": "НТВ Сериал",
+        "logo": "",
+        "group": "Russia",
+        "is_protected": false,
+        "web_urls": [
+            ""
+        ],
+        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/2b8b00f4b797d79e3af868cbfa5bc86886268f54-4-0-knn576995-3-628273496-1789668104-e128-5Wx7RLSFLbLJujGWZvq6GlkzBzCeuj5AS8UpI_Sxzss/0.m3u8","https://stream2.katv1.platform24.tv/hlsjwt/2b8b00f4b797d79e3af868cbfa5bc86886268f54-4-0-knn576995-3-628273496-1789668104-e128-5Wx7RLSFLbLJujGWZvq6GlkzBzCeuj5AS8UpI_Sxzss/index.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/2b8b00f4b797d79e3af868cbfa5bc86886268f54-4-0-knn576995-3-628273496-1789668104-e128-5Wx7RLSFLbLJujGWZvq6GlkzBzCeuj5AS8UpI_Sxzss/1.m3u8","https://stream1.katv1.platform24.tv/mbrjwt/c8b960e732cfc5798c026c39a0f21e4009575c24-4-0-knn576995-3-628273496-1789668467-e128-WDDRXTfgGNlIEiPh8aQ28bD-8PSAxB3aVGDrt9tcqHs/2.m3u8"],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     }
+
 
 
 
