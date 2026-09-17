@@ -440,7 +440,7 @@
         "name": "FAP TV3",
         "logo": "",
         "group": "Erotic",
-        "is_protected": true,
+        "is_protected": false,
         "web_urls": [
             "https:\/\/hochu.tv\/fap-tv-3.html"
         ],
