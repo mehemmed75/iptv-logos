@@ -1269,6 +1269,21 @@
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
+    },
+  {
+        "name": "Первый HD",
+        "logo": "",
+        "group": "Russia",
+        "is_protected": false,
+        "web_urls": [
+            ""
+        ],
+        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM/0.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-173-0-knn576995-3-628273496-1789667325-e128-xLOKeX4ZnrU96Xwyl8gYJ2NrwYKn3JBTl87j11GCk7k/1500.m3u8","https://stream2.katv1.platform24.tv/hlsjwt/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-173-0-knn576995-3-628273496-1789667325-e128-xLOKeX4ZnrU96Xwyl8gYJ2NrwYKn3JBTl87j11GCk7k/index.m3u8"],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     }
+
+
 
 ]
