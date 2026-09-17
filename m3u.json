@@ -283,7 +283,7 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https:\/\/str.yodacdn.net\/tmbaz\/tracks-v1a1\/mono.ts.m3u8"
+            "https:\/\/str.yodacdn.net\/tmbaz\/tracks-v1a1\/mono.ts.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-6857-0-knn576995-3-628273496-1789667042-e128-2stIBMw0vTnLmtmWAj-lnMs1UuhQXuc24aJRkfZrws0/1500.m3u8?ml=true","https://stream2.katv1.platform24.tv/mbrjwt/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-6857-0-knn576995-3-628273496-1789667042-e128-2stIBMw0vTnLmtmWAj-lnMs1UuhQXuc24aJRkfZrws0/1500.m3u8","https://stream2.katv1.platform24.tv/hlsjwt/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-6857-0-knn576995-3-628273496-1789667042-e128-2stIBMw0vTnLmtmWAj-lnMs1UuhQXuc24aJRkfZrws0/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
