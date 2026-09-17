@@ -1308,7 +1308,21 @@
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
+    },
+ {
+        "name": "СТС",
+        "logo": "",
+        "group": "Russia",
+        "is_protected": false,
+        "web_urls": [
+            ""
+        ],
+        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/2.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/1.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/0.m3u8","https://stream2.katv1.platform24.tv/hlsjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/index.m3u8"],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     }
+
 
 
 
