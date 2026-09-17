@@ -1331,7 +1331,7 @@
         "web_urls": [
             ""
         ],
-        "urls": ["https://stream1.katv1.platform24.tv/mbrjwt/9609caa53a3acdfb9c58841b85892dc936e4994a-4332-0-knn576995-3-628273496-1789669908-e128-TAkG3WVL9xlTcKqU2sKpKgUIOlYudKRQSdlEtaDlDtA/1500.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/1.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/0.m3u8","https://stream2.katv1.platform24.tv/hlsjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/index.m3u8"],
+        "urls": ["https://stream1.katv1.platform24.tv/mbrjwt/9609caa53a3acdfb9c58841b85892dc936e4994a-4332-0-knn576995-3-628273496-1789669908-e128-TAkG3WVL9xlTcKqU2sKpKgUIOlYudKRQSdlEtaDlDtA/1500.m3u8"],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
