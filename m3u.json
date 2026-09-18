@@ -1530,11 +1530,9 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [],
+        "web_urls": ["http://rutv.pw/retrotv"],
         "urls": [
-            "https://stream1.katv1.platform24.tv/mbrjwt/3f1d6c8294e0992f1550404ea0c89c19ebccf587-87-0-knn576995-3-628273496-1789674604-e128-zioxsduRU4qlZ1gFil_Z1yKIiCfOyzKwGdW2MuYcxeA/0.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/3f1d6c8294e0992f1550404ea0c89c19ebccf587-87-0-knn576995-3-628273496-1789674604-e128-zioxsduRU4qlZ1gFil_Z1yKIiCfOyzKwGdW2MuYcxeA/1.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/3f1d6c8294e0992f1550404ea0c89c19ebccf587-87-0-knn576995-3-628273496-1789674604-e128-zioxsduRU4qlZ1gFil_Z1yKIiCfOyzKwGdW2MuYcxeA/2.m3u8"
+            "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
