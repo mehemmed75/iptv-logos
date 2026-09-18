@@ -1469,7 +1469,7 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [],
+        "web_urls": ["https://smotret.tv/che"],
         "urls": [
             "https://stream2.katv1.platform24.tv/mbrjwt/f42f2102e4a3662630eb32e7e68a28ca35036ace-109-0-knn576995-3-628273496-1789673403-e128-uo2xy4ULh9DJ9D9n0FwYepCY820l1cO-0rmNRksHIss/0.m3u8",
             "https://stream2.katv1.platform24.tv/hlsjwt/f2d70e88bfb9c2a0f073a99c713fa54d15af8861-109-0-knn576995-3-628273496-1789673984-e128-RqcTwUk2Y56qUaue0ji3RNIR5cqPNgxoo4nXPMlLg5I/index.m3u8",
