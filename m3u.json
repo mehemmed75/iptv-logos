@@ -1619,5 +1619,19 @@
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
+    },
+ {
+        "name": "ТВ3",
+        "logo": "",
+        "group": "Russia",
+        "is_protected": false,
+        "web_urls": [],
+        "urls": [
+             ""
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
     }
+
 ]
