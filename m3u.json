@@ -1609,7 +1609,7 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [],
+        "web_urls": ["https://glaz.tv/online-tv/tv-centr"],
         "urls": [
             "https://stream2.katv1.platform24.tv/mbrjwt/a210bfaf7dae7debb711670a68d5fcab6e196052-3-0-knn576995-3-628273496-1789675310-e128-yc29LEi9sGIJ8zhMHTPvEgiNUMyvw8tJ3uOzskrf9tY/0.m3u8",
             "https://stream2.katv1.platform24.tv/hlsjwt/a210bfaf7dae7debb711670a68d5fcab6e196052-3-0-knn576995-3-628273496-1789675310-e128-yc29LEi9sGIJ8zhMHTPvEgiNUMyvw8tJ3uOzskrf9tY/index.m3u8",
