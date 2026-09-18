@@ -1561,8 +1561,10 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://televizo.live/muzyka-pervogo.html","https://telik.live/muzyka-pervogo.html","http://myru.top/online/muzika-pervogo"],
+        "web_urls": ["http://myru.top/online/muzika-pervogo"],
         "urls": [
+
+"https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8"
             
         ],
         "pin_code": "",
