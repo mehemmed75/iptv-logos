@@ -1480,7 +1480,7 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/music/tnt-music","http://live.tivix.co/363-telekanal-tnt_music.html"],
+        "web_urls": ["https://smotret.tv/music/tnt-music","http://live.tivix.co/363-telekanal-tnt_music.html","https://xittv.net/tnt-musik.html"],
         "urls": [
             
         ],
@@ -1493,7 +1493,7 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/online/rossiya-24.html","https://vgtrk.ru/russia24","https://xittv.net/tnt-musik.html"],
+        "web_urls": ["https://smotret.tv/online/rossiya-24.html","https://vgtrk.ru/russia24",],
         "urls": [
 "https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8"
             
