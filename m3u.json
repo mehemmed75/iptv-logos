@@ -206,7 +206,11 @@
             "https:\/\/canlitv.com\/arb-24-tv",
             "https:\/\/arb24.tvstream.az\/"
         ],
-        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/39c794d300559f7e92d6d07a7d808e43d08667b6-6704-0-knn576995-3-628273496-1789666461-e128-x37yLb6LnlYG-mkOwgxj3GkjzhCLbUmli8xTltvMgq4/1500.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/39c794d300559f7e92d6d07a7d808e43d08667b6-6704-0-knn576995-3-628273496-1789666461-e128-x37yLb6LnlYG-mkOwgxj3GkjzhCLbUmli8xTltvMgq4/1500.m3u8?ml=true","https://stream2.katv1.platform24.tv/hlsjwt/39c794d300559f7e92d6d07a7d808e43d08667b6-6704-0-knn576995-3-628273496-1789666461-e128-x37yLb6LnlYG-mkOwgxj3GkjzhCLbUmli8xTltvMgq4/index.m3u8"],
+        "urls": [
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/39c794d300559f7e92d6d07a7d808e43d08667b6-6704-0-knn576995-3-628273496-1789666461-e128-x37yLb6LnlYG-mkOwgxj3GkjzhCLbUmli8xTltvMgq4\/1500.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/39c794d300559f7e92d6d07a7d808e43d08667b6-6704-0-knn576995-3-628273496-1789666461-e128-x37yLb6LnlYG-mkOwgxj3GkjzhCLbUmli8xTltvMgq4\/1500.m3u8?ml=true",
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/39c794d300559f7e92d6d07a7d808e43d08667b6-6704-0-knn576995-3-628273496-1789666461-e128-x37yLb6LnlYG-mkOwgxj3GkjzhCLbUmli8xTltvMgq4\/index.m3u8"
+        ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -219,7 +223,11 @@
         "web_urls": [
             "https:\/\/canlitv.com\/arb-gunes-tv"
         ],
-        "urls": ["https://stream1.katv1.platform24.tv/hlsjwt/6ae7fcad397f43ef3162323e557dc0360662e7aa-6705-0-knn576995-3-628273496-1789659122-e128-NpXaYdjNtvwnGPrNUj86r65ALRgOj-VQthAwOKBaoAE/index.m3u8","https://stream1.katv1.platform24.tv/mbrjwt/6ae7fcad397f43ef3162323e557dc0360662e7aa-6705-0-knn576995-3-628273496-1789659122-e128-NpXaYdjNtvwnGPrNUj86r65ALRgOj-VQthAwOKBaoAE/1500.m3u8?ml=true","https://stream1.katv1.platform24.tv/mbrjwt/6ae7fcad397f43ef3162323e557dc0360662e7aa-6705-0-knn576995-3-628273496-1789659122-e128-NpXaYdjNtvwnGPrNUj86r65ALRgOj-VQthAwOKBaoAE/1500.m3u8"],
+        "urls": [
+            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/6ae7fcad397f43ef3162323e557dc0360662e7aa-6705-0-knn576995-3-628273496-1789659122-e128-NpXaYdjNtvwnGPrNUj86r65ALRgOj-VQthAwOKBaoAE\/index.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/6ae7fcad397f43ef3162323e557dc0360662e7aa-6705-0-knn576995-3-628273496-1789659122-e128-NpXaYdjNtvwnGPrNUj86r65ALRgOj-VQthAwOKBaoAE\/1500.m3u8?ml=true",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/6ae7fcad397f43ef3162323e557dc0360662e7aa-6705-0-knn576995-3-628273496-1789659122-e128-NpXaYdjNtvwnGPrNUj86r65ALRgOj-VQthAwOKBaoAE\/1500.m3u8"
+        ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -268,7 +276,11 @@
         "logo": "https:\/\/raw.githubusercontent.com\/mehemmed75\/iptv-logos\/refs\/heads\/main\/MTV_Azerbaijan_Logo.png",
         "group": "Azerbaijan",
         "is_protected": false,
-        "web_urls": ["https://stream2.katv1.platform24.tv/hlsjwt/39c794d300559f7e92d6d07a7d808e43d08667b6-5835-0-knn576995-3-628273496-1789666271-e128-dsfKwR5kqsvkU8OrPQOuD_E6w7XGX0Yw2-AunEYn8kY/index.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/39c794d300559f7e92d6d07a7d808e43d08667b6-5835-0-knn576995-3-628273496-1789666271-e128-dsfKwR5kqsvkU8OrPQOuD_E6w7XGX0Yw2-AunEYn8kY/1500.m3u8?ml=true","https://stream2.katv1.platform24.tv/mbrjwt/39c794d300559f7e92d6d07a7d808e43d08667b6-5835-0-knn576995-3-628273496-1789666271-e128-dsfKwR5kqsvkU8OrPQOuD_E6w7XGX0Yw2-AunEYn8kY/1500.m3u8"],
+        "web_urls": [
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/39c794d300559f7e92d6d07a7d808e43d08667b6-5835-0-knn576995-3-628273496-1789666271-e128-dsfKwR5kqsvkU8OrPQOuD_E6w7XGX0Yw2-AunEYn8kY\/index.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/39c794d300559f7e92d6d07a7d808e43d08667b6-5835-0-knn576995-3-628273496-1789666271-e128-dsfKwR5kqsvkU8OrPQOuD_E6w7XGX0Yw2-AunEYn8kY\/1500.m3u8?ml=true",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/39c794d300559f7e92d6d07a7d808e43d08667b6-5835-0-knn576995-3-628273496-1789666271-e128-dsfKwR5kqsvkU8OrPQOuD_E6w7XGX0Yw2-AunEYn8kY\/1500.m3u8"
+        ],
         "urls": [
             "https:\/\/bstelevision.com\/proxy.php?url=https%3A%2F%2Fst2.mediabay.tv%2FAzer_Music_HD%2Ftracks-v1a1%2Fmono.m3u8%3F_t%3D1787427191%26token%3Dfd7d7fd16447dffcbd6fde3c4a4d6d863966f205-688e3e5109903b6c284475bd75ae1340-1787437691-1787426891"
         ],
@@ -283,7 +295,10 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https:\/\/str.yodacdn.net\/tmbaz\/tracks-v1a1\/mono.ts.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-6857-0-knn576995-3-628273496-1789667042-e128-2stIBMw0vTnLmtmWAj-lnMs1UuhQXuc24aJRkfZrws0/1500.m3u8?ml=true","https://stream2.katv1.platform24.tv/mbrjwt/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-6857-0-knn576995-3-628273496-1789667042-e128-2stIBMw0vTnLmtmWAj-lnMs1UuhQXuc24aJRkfZrws0/1500.m3u8","https://stream2.katv1.platform24.tv/hlsjwt/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-6857-0-knn576995-3-628273496-1789667042-e128-2stIBMw0vTnLmtmWAj-lnMs1UuhQXuc24aJRkfZrws0/index.m3u8"
+            "https:\/\/str.yodacdn.net\/tmbaz\/tracks-v1a1\/mono.ts.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-6857-0-knn576995-3-628273496-1789667042-e128-2stIBMw0vTnLmtmWAj-lnMs1UuhQXuc24aJRkfZrws0\/1500.m3u8?ml=true",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-6857-0-knn576995-3-628273496-1789667042-e128-2stIBMw0vTnLmtmWAj-lnMs1UuhQXuc24aJRkfZrws0\/1500.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/b5ca3141cb9a06a13c0d0925b21a6bfd2e905913-6857-0-knn576995-3-628273496-1789667042-e128-2stIBMw0vTnLmtmWAj-lnMs1UuhQXuc24aJRkfZrws0\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -325,7 +340,11 @@
         "web_urls": [
             "https:\/\/canlitv.com\/cbc-tv"
         ],
-        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/2ac3f7a3e229284768f2cac74cd1970e3b4cab36-437-0-knn576995-3-628273496-1789666573-e128-QVCsiNexFYv8-0KDy5ejFzqLV33cP7VspMuEtz4oEvI/1500.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/2ac3f7a3e229284768f2cac74cd1970e3b4cab36-437-0-knn576995-3-628273496-1789666573-e128-QVCsiNexFYv8-0KDy5ejFzqLV33cP7VspMuEtz4oEvI/1500.m3u8?ml=true","https://stream2.katv1.platform24.tv/hlsjwt/2ac3f7a3e229284768f2cac74cd1970e3b4cab36-437-0-knn576995-3-628273496-1789666573-e128-QVCsiNexFYv8-0KDy5ejFzqLV33cP7VspMuEtz4oEvI/index.m3u8"],
+        "urls": [
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/2ac3f7a3e229284768f2cac74cd1970e3b4cab36-437-0-knn576995-3-628273496-1789666573-e128-QVCsiNexFYv8-0KDy5ejFzqLV33cP7VspMuEtz4oEvI\/1500.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/2ac3f7a3e229284768f2cac74cd1970e3b4cab36-437-0-knn576995-3-628273496-1789666573-e128-QVCsiNexFYv8-0KDy5ejFzqLV33cP7VspMuEtz4oEvI\/1500.m3u8?ml=true",
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/2ac3f7a3e229284768f2cac74cd1970e3b4cab36-437-0-knn576995-3-628273496-1789666573-e128-QVCsiNexFYv8-0KDy5ejFzqLV33cP7VspMuEtz4oEvI\/index.m3u8"
+        ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -440,7 +459,7 @@
         "name": "FAP TV3",
         "logo": "",
         "group": "Erotic",
-        "is_protected": false,
+        "is_protected": true,
         "web_urls": [
             "https:\/\/hochu.tv\/fap-tv-3.html"
         ],
@@ -455,10 +474,14 @@
         "name": "Brazzers TV",
         "logo": "",
         "group": "Erotic",
-        "web_urls": ["https://hochu.tv/brazzers-tv-europe.html","https://klubnichka.live/brazzers-tv-europe"],
+        "web_urls": [
+            "https:\/\/hochu.tv\/brazzers-tv-europe.html",
+            "https:\/\/klubnichka.live\/brazzers-tv-europe"
+        ],
         "urls": [
             "https:\/\/tvcdnpotok.com\/huAODZyvJ3FOW-AWUEAAOQ\/46\/1789670817\/index.m3u8"
-        ]
+        ],
+        "is_protected": true
     },
     {
         "name": "Kanal D (1080P)",
@@ -521,7 +544,8 @@
             "https:\/\/www.atv.com.tr\/canli-yayin"
         ],
         "urls": [
-            "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/atv\/atv_1080p.m3u8","https://stream1.katv1.platform24.tv/hlsjwt/6ae7fcad397f43ef3162323e557dc0360662e7aa-2564-0-knn576995-3-628273496-1789658983-e128-THacwZuJxUK5eP7h4UGYnCPe6mptRfHHkogd_SGfeKg/index.m3u8"
+            "https:\/\/rnttwmjcin.turknet.ercdn.net\/lcpmvefbyo\/atv\/atv_1080p.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/6ae7fcad397f43ef3162323e557dc0360662e7aa-2564-0-knn576995-3-628273496-1789658983-e128-THacwZuJxUK5eP7h4UGYnCPe6mptRfHHkogd_SGfeKg\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -672,7 +696,11 @@
         "web_urls": [
             "https:\/\/www.showturk.com.tr\/canli-yayin"
         ],
-        "urls": ["https://stream1.katv1.platform24.tv/hlsjwt/beb6918380f53279ac466364bbff118c3b34070c-5705-0-knn576995-3-628273496-1789665306-e128-PKQONimUFDsTWGIVGftdtrGdaKPfETwklUM5yFzcJi8/index.m3u8","https://stream1.katv1.platform24.tv/mbrjwt/beb6918380f53279ac466364bbff118c3b34070c-5705-0-knn576995-3-628273496-1789665306-e128-PKQONimUFDsTWGIVGftdtrGdaKPfETwklUM5yFzcJi8/1500.m3u8?ml=true","https://stream1.katv1.platform24.tv/mbrjwt/beb6918380f53279ac466364bbff118c3b34070c-5705-0-knn576995-3-628273496-1789665306-e128-PKQONimUFDsTWGIVGftdtrGdaKPfETwklUM5yFzcJi8/1500.m3u8"],
+        "urls": [
+            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/beb6918380f53279ac466364bbff118c3b34070c-5705-0-knn576995-3-628273496-1789665306-e128-PKQONimUFDsTWGIVGftdtrGdaKPfETwklUM5yFzcJi8\/index.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/beb6918380f53279ac466364bbff118c3b34070c-5705-0-knn576995-3-628273496-1789665306-e128-PKQONimUFDsTWGIVGftdtrGdaKPfETwklUM5yFzcJi8\/1500.m3u8?ml=true",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/beb6918380f53279ac466364bbff118c3b34070c-5705-0-knn576995-3-628273496-1789665306-e128-PKQONimUFDsTWGIVGftdtrGdaKPfETwklUM5yFzcJi8\/1500.m3u8"
+        ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1213,7 +1241,9 @@
         "web_urls": [
             "https:\/\/canlitv.com\/cartoon-network"
         ],
-        "urls": ["https://stream1.katv1.platform24.tv/mbrjwt/6ae7fcad397f43ef3162323e557dc0360662e7aa-3372-0-knn576995-3-628273496-1789659236-e128-pGsxuFLd1F_y367XYPb72I6EmhIR5wWwGXhUbHqDlTA/1500.m3u8"],
+        "urls": [
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/6ae7fcad397f43ef3162323e557dc0360662e7aa-3372-0-knn576995-3-628273496-1789659236-e128-pGsxuFLd1F_y367XYPb72I6EmhIR5wWwGXhUbHqDlTA\/1500.m3u8"
+        ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1262,76 +1292,86 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotrim.ru/channel/1"
-            
+        "web_urls": [
+            "https:\/\/smotrim.ru\/channel\/1"
         ],
-        "urls": ["https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8"],
+        "urls": [
+            "https:\/\/live.smotrim.ru\/vgtrk\/0\/russia1-hd\/1080p.m3u8"
+        ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
     },
-  {
-        "name": "Первый HD", 
+    {
+        "name": "Первый HD",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [
-            
+        "web_urls": [],
+        "urls": [
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM\/0.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM\/1.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM\/2.m3u8"
         ],
-        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM/0.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM/1.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM/2.m3u8"],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
     },
- {
+    {
         "name": "НТВ",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [
-            
+        "web_urls": [],
+        "urls": [
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/2b8b00f4b797d79e3af868cbfa5bc86886268f54-4-0-knn576995-3-628273496-1789668104-e128-5Wx7RLSFLbLJujGWZvq6GlkzBzCeuj5AS8UpI_Sxzss\/0.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/2b8b00f4b797d79e3af868cbfa5bc86886268f54-4-0-knn576995-3-628273496-1789668104-e128-5Wx7RLSFLbLJujGWZvq6GlkzBzCeuj5AS8UpI_Sxzss\/index.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/2b8b00f4b797d79e3af868cbfa5bc86886268f54-4-0-knn576995-3-628273496-1789668104-e128-5Wx7RLSFLbLJujGWZvq6GlkzBzCeuj5AS8UpI_Sxzss\/1.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/c8b960e732cfc5798c026c39a0f21e4009575c24-4-0-knn576995-3-628273496-1789668467-e128-WDDRXTfgGNlIEiPh8aQ28bD-8PSAxB3aVGDrt9tcqHs\/2.m3u8"
         ],
-        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/2b8b00f4b797d79e3af868cbfa5bc86886268f54-4-0-knn576995-3-628273496-1789668104-e128-5Wx7RLSFLbLJujGWZvq6GlkzBzCeuj5AS8UpI_Sxzss/0.m3u8","https://stream2.katv1.platform24.tv/hlsjwt/2b8b00f4b797d79e3af868cbfa5bc86886268f54-4-0-knn576995-3-628273496-1789668104-e128-5Wx7RLSFLbLJujGWZvq6GlkzBzCeuj5AS8UpI_Sxzss/index.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/2b8b00f4b797d79e3af868cbfa5bc86886268f54-4-0-knn576995-3-628273496-1789668104-e128-5Wx7RLSFLbLJujGWZvq6GlkzBzCeuj5AS8UpI_Sxzss/1.m3u8","https://stream1.katv1.platform24.tv/mbrjwt/c8b960e732cfc5798c026c39a0f21e4009575c24-4-0-knn576995-3-628273496-1789668467-e128-WDDRXTfgGNlIEiPh8aQ28bD-8PSAxB3aVGDrt9tcqHs/2.m3u8"],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
     },
- {
+    {
         "name": "НТВ Сериал",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [
-            
+        "web_urls": [],
+        "urls": [
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/c8b960e732cfc5798c026c39a0f21e4009575c24-784-0-knn576995-3-628273496-1789668686-e128-COVLJvDtY7XMkzZAqEvx7c5WZ9qpv3I2CRaqQSWvU3w\/1500.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/c8b960e732cfc5798c026c39a0f21e4009575c24-784-0-knn576995-3-628273496-1789668686-e128-COVLJvDtY7XMkzZAqEvx7c5WZ9qpv3I2CRaqQSWvU3w\/index.m3u8"
         ],
-        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/c8b960e732cfc5798c026c39a0f21e4009575c24-784-0-knn576995-3-628273496-1789668686-e128-COVLJvDtY7XMkzZAqEvx7c5WZ9qpv3I2CRaqQSWvU3w/1500.m3u8","https://stream2.katv1.platform24.tv/hlsjwt/c8b960e732cfc5798c026c39a0f21e4009575c24-784-0-knn576995-3-628273496-1789668686-e128-COVLJvDtY7XMkzZAqEvx7c5WZ9qpv3I2CRaqQSWvU3w/index.m3u8"],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
     },
- {
+    {
         "name": "СТС",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [
-            
+        "web_urls": [],
+        "urls": [
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4\/2.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4\/1.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4\/0.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4\/index.m3u8"
         ],
-        "urls": ["https://stream2.katv1.platform24.tv/mbrjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/2.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/1.m3u8","https://stream2.katv1.platform24.tv/mbrjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/0.m3u8","https://stream2.katv1.platform24.tv/hlsjwt/7e9c312b8b62fe47f25d220274658e794c4e7254-8-0-knn576995-3-628273496-1789669559-e128-NKyynHNDgVX1izmcE8RnmXyHsA2uZDoH0JFLOFC5PB4/index.m3u8"],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
     },
-
- {
+    {
         "name": "СТС kids",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [
-            
+        "web_urls": [],
+        "urls": [
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/9609caa53a3acdfb9c58841b85892dc936e4994a-4332-0-knn576995-3-628273496-1789669908-e128-TAkG3WVL9xlTcKqU2sKpKgUIOlYudKRQSdlEtaDlDtA\/1500.m3u8"
         ],
-        "urls": ["https://stream1.katv1.platform24.tv/mbrjwt/9609caa53a3acdfb9c58841b85892dc936e4994a-4332-0-knn576995-3-628273496-1789669908-e128-TAkG3WVL9xlTcKqU2sKpKgUIOlYudKRQSdlEtaDlDtA/1500.m3u8"],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1343,10 +1383,10 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https://stream2.katv1.platform24.tv/hlsjwt/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A/index.m3u8",
-            "https://stream2.katv1.platform24.tv/mbrjwt/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A/0.m3u8",
-            "https://stream2.katv1.platform24.tv/mbrjwt/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A/1.m3u8",
-            "https://stream2.katv1.platform24.tv/mbrjwt/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A/2.m3u8"
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A\/index.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A\/0.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A\/1.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A\/2.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1359,10 +1399,10 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https://stream1.katv1.platform24.tv/hlsjwt/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-86-0-knn576995-3-628273496-1789670828-e128-v8SNaugfMximcY_dntsG2cpAqW1nb8uJM0Mb4bsBN4w/index.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-86-0-knn576995-3-628273496-1789670828-e128-v8SNaugfMximcY_dntsG2cpAqW1nb8uJM0Mb4bsBN4w/0.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-86-0-knn576995-3-628273496-1789670828-e128-v8SNaugfMximcY_dntsG2cpAqW1nb8uJM0Mb4bsBN4w/1.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-86-0-knn576995-3-628273496-1789670828-e128-v8SNaugfMximcY_dntsG2cpAqW1nb8uJM0Mb4bsBN4w/2.m3u8"
+            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-86-0-knn576995-3-628273496-1789670828-e128-v8SNaugfMximcY_dntsG2cpAqW1nb8uJM0Mb4bsBN4w\/index.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-86-0-knn576995-3-628273496-1789670828-e128-v8SNaugfMximcY_dntsG2cpAqW1nb8uJM0Mb4bsBN4w\/0.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-86-0-knn576995-3-628273496-1789670828-e128-v8SNaugfMximcY_dntsG2cpAqW1nb8uJM0Mb4bsBN4w\/1.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-86-0-knn576995-3-628273496-1789670828-e128-v8SNaugfMximcY_dntsG2cpAqW1nb8uJM0Mb4bsBN4w\/2.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1375,10 +1415,10 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https://stream1.katv1.platform24.tv/hlsjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-41-0-knn576995-3-628273496-1789671233-e128-uuxKp7u-4CeUQW3R2brkZQ86XVfoEkfON8igvWG8_0Q/index.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-41-0-knn576995-3-628273496-1789671233-e128-uuxKp7u-4CeUQW3R2brkZQ86XVfoEkfON8igvWG8_0Q/0.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-41-0-knn576995-3-628273496-1789671233-e128-uuxKp7u-4CeUQW3R2brkZQ86XVfoEkfON8igvWG8_0Q/1.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-41-0-knn576995-3-628273496-1789671233-e128-uuxKp7u-4CeUQW3R2brkZQ86XVfoEkfON8igvWG8_0Q/2.m3u8"
+            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-41-0-knn576995-3-628273496-1789671233-e128-uuxKp7u-4CeUQW3R2brkZQ86XVfoEkfON8igvWG8_0Q\/index.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-41-0-knn576995-3-628273496-1789671233-e128-uuxKp7u-4CeUQW3R2brkZQ86XVfoEkfON8igvWG8_0Q\/0.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-41-0-knn576995-3-628273496-1789671233-e128-uuxKp7u-4CeUQW3R2brkZQ86XVfoEkfON8igvWG8_0Q\/1.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-41-0-knn576995-3-628273496-1789671233-e128-uuxKp7u-4CeUQW3R2brkZQ86XVfoEkfON8igvWG8_0Q\/2.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1391,10 +1431,10 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https://stream1.katv1.platform24.tv/hlsjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-169-0-knn576995-3-628273496-1789671388-e128-gJShHHYJknpq-DK5oLcgqVYRp3hommBM6msUKEtyX68/index.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-169-0-knn576995-3-628273496-1789671388-e128-gJShHHYJknpq-DK5oLcgqVYRp3hommBM6msUKEtyX68/0.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-169-0-knn576995-3-628273496-1789671388-e128-gJShHHYJknpq-DK5oLcgqVYRp3hommBM6msUKEtyX68/1.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-169-0-knn576995-3-628273496-1789671388-e128-gJShHHYJknpq-DK5oLcgqVYRp3hommBM6msUKEtyX68/2.m3u8"
+            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-169-0-knn576995-3-628273496-1789671388-e128-gJShHHYJknpq-DK5oLcgqVYRp3hommBM6msUKEtyX68\/index.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-169-0-knn576995-3-628273496-1789671388-e128-gJShHHYJknpq-DK5oLcgqVYRp3hommBM6msUKEtyX68\/0.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-169-0-knn576995-3-628273496-1789671388-e128-gJShHHYJknpq-DK5oLcgqVYRp3hommBM6msUKEtyX68\/1.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-169-0-knn576995-3-628273496-1789671388-e128-gJShHHYJknpq-DK5oLcgqVYRp3hommBM6msUKEtyX68\/2.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1407,10 +1447,10 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https://stream1.katv1.platform24.tv/mbrjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw/0.m3u8",
-            "https://stream1.katv1.platform24.tv/hlsjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw/index.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw/1.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw/2.m3u8"
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw\/0.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw\/index.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw\/1.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw\/2.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1423,10 +1463,10 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https://stream2.katv1.platform24.tv/hlsjwt/06991912c26e4833fa144e87d72ce6a501f091d0-9-0-knn576995-3-628273496-1789671627-e128-DuFbWGKFTOM8Zrx0k9389TqbsMbIpv6YfVRavgc1c0I/index.m3u8",
-            "https://stream2.katv1.platform24.tv/mbrjwt/06991912c26e4833fa144e87d72ce6a501f091d0-9-0-knn576995-3-628273496-1789671627-e128-DuFbWGKFTOM8Zrx0k9389TqbsMbIpv6YfVRavgc1c0I/0.m3u8",
-            "https://stream2.katv1.platform24.tv/mbrjwt/06991912c26e4833fa144e87d72ce6a501f091d0-9-0-knn576995-3-628273496-1789671627-e128-DuFbWGKFTOM8Zrx0k9389TqbsMbIpv6YfVRavgc1c0I/1.m3u8",
-            "https://stream2.katv1.platform24.tv/mbrjwt/06991912c26e4833fa144e87d72ce6a501f091d0-9-0-knn576995-3-628273496-1789671627-e128-DuFbWGKFTOM8Zrx0k9389TqbsMbIpv6YfVRavgc1c0I/2.m3u8"
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-9-0-knn576995-3-628273496-1789671627-e128-DuFbWGKFTOM8Zrx0k9389TqbsMbIpv6YfVRavgc1c0I\/index.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-9-0-knn576995-3-628273496-1789671627-e128-DuFbWGKFTOM8Zrx0k9389TqbsMbIpv6YfVRavgc1c0I\/0.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-9-0-knn576995-3-628273496-1789671627-e128-DuFbWGKFTOM8Zrx0k9389TqbsMbIpv6YfVRavgc1c0I\/1.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-9-0-knn576995-3-628273496-1789671627-e128-DuFbWGKFTOM8Zrx0k9389TqbsMbIpv6YfVRavgc1c0I\/2.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1439,10 +1479,10 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https://stream1.katv1.platform24.tv/hlsjwt/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c/index.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c/0.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c/1.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c/2.m3u8"
+            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c\/index.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c\/0.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c\/1.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c\/2.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1455,10 +1495,10 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https://stream2.katv1.platform24.tv/mbrjwt/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g/0.m3u8",
-            "https://stream2.katv1.platform24.tv/hlsjwt/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g/index.m3u8",
-            "https://stream2.katv1.platform24.tv/mbrjwt/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g/1.m3u8",
-            "https://stream2.katv1.platform24.tv/mbrjwt/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g/2.m3u8"
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g\/0.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g\/index.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g\/1.m3u8",
+            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g\/2.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1469,10 +1509,11 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/che","https://smotrettv.net/tv/entertainment/43-che.html"],
-        "urls": [
-            
+        "web_urls": [
+            "https:\/\/smotret.tv\/che",
+            "https:\/\/smotrettv.net\/tv\/entertainment\/43-che.html"
         ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1482,9 +1523,12 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/domashniy","http://live.tivix.co/100-domashniy.html"],
+        "web_urls": [
+            "https:\/\/smotret.tv\/domashniy",
+            "http:\/\/live.tivix.co\/100-domashniy.html"
+        ],
         "urls": [
-            "https://s.tivix.co/sosE3MivQ6arS5tIZv_XDQ/561/1789749628/index.m3u8"
+            "https:\/\/s.tivix.co\/sosE3MivQ6arS5tIZv_XDQ\/561\/1789749628\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1495,12 +1539,14 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/yu","https://live.viks.tv/026222-yu-tv.html","http://live.domatv.net/74-ju-tv.html"],
+        "web_urls": [
+            "https:\/\/smotret.tv\/yu",
+            "https:\/\/live.viks.tv\/026222-yu-tv.html",
+            "http:\/\/live.domatv.net\/74-ju-tv.html"
+        ],
         "urls": [
-            "https://s.viks.tv/fdgVFEzMYTISkTiJz-7ihQ/107/1789748813/index.m3u8",
-"https://s.domatv.net/dnw8GlHkSRfP4BM2wm4fhA/107/1789749092/index.m3u8"
-            
-           
+            "https:\/\/s.viks.tv\/fdgVFEzMYTISkTiJz-7ihQ\/107\/1789748813\/index.m3u8",
+            "https:\/\/s.domatv.net\/dnw8GlHkSRfP4BM2wm4fhA\/107\/1789749092\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1513,9 +1559,9 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https://stream1.katv1.platform24.tv/mbrjwt/3f1d6c8294e0992f1550404ea0c89c19ebccf587-29-0-knn576995-3-628273496-1789674485-e128-sP9e-6akHPfl-6uwVk-sE33moCPHUGX2HHVo34b4vJk/0.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/3f1d6c8294e0992f1550404ea0c89c19ebccf587-29-0-knn576995-3-628273496-1789674485-e128-sP9e-6akHPfl-6uwVk-sE33moCPHUGX2HHVo34b4vJk/1.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/3f1d6c8294e0992f1550404ea0c89c19ebccf587-29-0-knn576995-3-628273496-1789674485-e128-sP9e-6akHPfl-6uwVk-sE33moCPHUGX2HHVo34b4vJk/2.m3u8"
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/3f1d6c8294e0992f1550404ea0c89c19ebccf587-29-0-knn576995-3-628273496-1789674485-e128-sP9e-6akHPfl-6uwVk-sE33moCPHUGX2HHVo34b4vJk\/0.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/3f1d6c8294e0992f1550404ea0c89c19ebccf587-29-0-knn576995-3-628273496-1789674485-e128-sP9e-6akHPfl-6uwVk-sE33moCPHUGX2HHVo34b4vJk\/1.m3u8",
+            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/3f1d6c8294e0992f1550404ea0c89c19ebccf587-29-0-knn576995-3-628273496-1789674485-e128-sP9e-6akHPfl-6uwVk-sE33moCPHUGX2HHVo34b4vJk\/2.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1526,9 +1572,11 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["http://rutv.pw/retrotv"],
+        "web_urls": [
+            "http:\/\/rutv.pw\/retrotv"
+        ],
         "urls": [
-            "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8"
+            "https:\/\/stream8.cinerama.uz\/1047\/tracks-v1a1\/mono.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1539,10 +1587,14 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["http://live.tivix.co/175-ohota-i-rybalka.html","http://live.domatv.net/84-ohota-i-rybalka.html"],
+        "web_urls": [
+            "http:\/\/live.tivix.co\/175-ohota-i-rybalka.html",
+            "http:\/\/live.domatv.net\/84-ohota-i-rybalka.html"
+        ],
         "urls": [
-       "https://s.tivix.co/ds9cpZ6fTEyejTUmPsjyXw/538/1789744063/index.m3u8","https://s.domatv.net/lUWKTK3zJwLji7ZQMrtVLQ/538/1789744167/index.m3u8","https://tvcdnpotok.com/efqW5zDk9YXS8qpNojsifA/538/1789744259/index.m3u8"
-            
+            "https:\/\/s.tivix.co\/ds9cpZ6fTEyejTUmPsjyXw\/538\/1789744063\/index.m3u8",
+            "https:\/\/s.domatv.net\/lUWKTK3zJwLji7ZQMrtVLQ\/538\/1789744167\/index.m3u8",
+            "https:\/\/tvcdnpotok.com\/efqW5zDk9YXS8qpNojsifA\/538\/1789744259\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1553,11 +1605,11 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["http://myru.top/online/muzika-pervogo"],
+        "web_urls": [
+            "http:\/\/myru.top\/online\/muzika-pervogo"
+        ],
         "urls": [
-
-"https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8"
-            
+            "https:\/\/stream8.cinerama.uz\/1201\/tracks-v1a1\/mono.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1568,11 +1620,12 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://xittv.net/mult.html","https://live.viks.tv/023022-mult.html"],
+        "web_urls": [
+            "https:\/\/xittv.net\/mult.html",
+            "https:\/\/live.viks.tv\/023022-mult.html"
+        ],
         "urls": [
-
-"https://s.xittv.net/KR3NATDc97DwUJJSK3EknA/206/1789733112/index.m3u8"
-             
+            "https:\/\/s.xittv.net\/KR3NATDc97DwUJJSK3EknA\/206\/1789733112\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1584,9 +1637,7 @@
         "group": "Russia",
         "is_protected": false,
         "web_urls": [],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1596,27 +1647,30 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://glaz.tv/online-tv/tv-centr","http://live.domatv.net/63-tvc.html"],
+        "web_urls": [
+            "https:\/\/glaz.tv\/online-tv\/tv-centr",
+            "http:\/\/live.domatv.net\/63-tvc.html"
+        ],
         "urls": [
-            
             ""
         ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
     },
- {
+    {
         "name": "ТВ3",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/tv-3"],
+        "web_urls": [
+            "https:\/\/smotret.tv\/tv-3"
+        ],
         "urls": [
-             ""
+            ""
         ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
     }
-
 ]
