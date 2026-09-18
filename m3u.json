@@ -1499,7 +1499,7 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/yu","https://live.viks.tv/026222-yu-tv.html",""http://live.domatv.net/74-ju-tv.html"],
+        "web_urls": ["https://smotret.tv/yu","https://live.viks.tv/026222-yu-tv.html","http://live.domatv.net/74-ju-tv.html"],
         "urls": [
             "https://s.viks.tv/fdgVFEzMYTISkTiJz-7ihQ/107/1789748813/index.m3u8",
 "https://s.domatv.net/dnw8GlHkSRfP4BM2wm4fhA/107/1789749092/index.m3u8"
