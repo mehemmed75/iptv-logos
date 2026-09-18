@@ -1480,7 +1480,7 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [],
+        "web_urls": ["https://smotret.tv/music/tnt-music"],
         "urls": [
             "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c\/index.m3u8",
             "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/06991912c26e4833fa144e87d72ce6a501f091d0-71-0-knn576995-3-628273496-1789671727-e128-c03MIlTsfvnCT4oL_0i3zJOV3vtrXEfvsWPRecjfF4c\/0.m3u8",
