@@ -12,7 +12,9 @@
     "giris_sifresi": "mehdi",
     "cihaz_limiti": 1,
     "bitis_tarihi": "01.01.2050 23:00",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "a9dcc6f489190212"
+    ],
     "aktif": true
   }
 ]
