@@ -1487,8 +1487,7 @@
         "is_protected": false,
         "web_urls": ["https://smotret.tv/domashniy","http://live.tivix.co/100-domashniy.html"],
         "urls": [
-            "https://stream2.katv1.platform24.tv/mbrjwt/f2d70e88bfb9c2a0f073a99c713fa54d15af8861-4953-0-knn576995-3-628273496-1789674092-e128-2_r6FYvLm9j1gKelXk2hmSOjk3BHCOv8rYzBjdYVBYk/1500.m3u8",
-            "https://stream2.katv1.platform24.tv/hlsjwt/f2d70e88bfb9c2a0f073a99c713fa54d15af8861-4953-0-knn576995-3-628273496-1789674092-e128-2_r6FYvLm9j1gKelXk2hmSOjk3BHCOv8rYzBjdYVBYk/index.m3u8"
+            
         ],
         "pin_code": "",
         "device_limit": 1,
