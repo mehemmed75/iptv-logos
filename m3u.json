@@ -1498,10 +1498,7 @@
         "is_protected": false,
         "web_urls": ["https://smotret.tv/online/rossiya-24.html"],
         "urls": [
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g\/0.m3u8",
-            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g\/index.m3u8",
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g\/1.m3u8",
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/f42f2102e4a3662630eb32e7e68a28ca35036ace-49-0-knn576995-3-628273496-1789673235-e128-JnmWE-YnwHsFcWRpRv6z80dZrxtxeI4DoGuP9lqXb0g\/2.m3u8"
+            
         ],
         "pin_code": "",
         "device_limit": 1,
