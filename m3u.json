@@ -1625,7 +1625,7 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://www.ontvtime.ru/general/tv3.html"],
+        "web_urls": ["https://www.ontvtime.ru/general/tv3.html","https://smotret.tv/tv-3"],
         "urls": [
              ""
         ],
