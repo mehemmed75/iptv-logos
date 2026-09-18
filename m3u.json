@@ -1577,7 +1577,7 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [],
+        "web_urls": ["https://xittv.net/mult.html"],
         "urls": [
             "https://stream2.katv1.platform24.tv/hlsjwt/0c15ea834b6322df0728b1ddb416fe71518abaef-200-0-knn576995-3-628273496-1789675050-e128-RHxQ9KEF_ZqcHcTGvXWYQO5yIWmDDwjOur6tkwLkKCk/index.m3u8",
             "https://stream2.katv1.platform24.tv/mbrjwt/0c15ea834b6322df0728b1ddb416fe71518abaef-200-0-knn576995-3-628273496-1789675050-e128-RHxQ9KEF_ZqcHcTGvXWYQO5yIWmDDwjOur6tkwLkKCk/0.m3u8",
