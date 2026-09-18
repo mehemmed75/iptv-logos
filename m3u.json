@@ -1561,12 +1561,9 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [],
+        "web_urls": ["https://televizo.live/muzyka-pervogo.html","https://telik.live/muzyka-pervogo.html"],
         "urls": [
-            "https://stream1.katv1.platform24.tv/hlsjwt/0c15ea834b6322df0728b1ddb416fe71518abaef-133-0-knn576995-3-628273496-1789674874-e128-sxwDdgdVZbywsCdRZQ4QNCcid1qXmGyD8fW5vepb4yQ/index.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/0c15ea834b6322df0728b1ddb416fe71518abaef-133-0-knn576995-3-628273496-1789674874-e128-sxwDdgdVZbywsCdRZQ4QNCcid1qXmGyD8fW5vepb4yQ/0.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/0c15ea834b6322df0728b1ddb416fe71518abaef-133-0-knn576995-3-628273496-1789674874-e128-sxwDdgdVZbywsCdRZQ4QNCcid1qXmGyD8fW5vepb4yQ/1.m3u8",
-            "https://stream1.katv1.platform24.tv/mbrjwt/0c15ea834b6322df0728b1ddb416fe71518abaef-133-0-knn576995-3-628273496-1789674874-e128-sxwDdgdVZbywsCdRZQ4QNCcid1qXmGyD8fW5vepb4yQ/2.m3u8"
+            
         ],
         "pin_code": "",
         "device_limit": 1,
