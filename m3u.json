@@ -1448,12 +1448,9 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": [],
+        "web_urls": ["https://smotrettv.net/tv/public/316-ren-tv.html"],
         "urls": [
-            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw\/0.m3u8",
-            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw\/index.m3u8",
-            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw\/1.m3u8",
-            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/e1c3d7f2307e45f2c90a54b12e09efd14c3c232b-7-0-knn576995-3-628273496-1789671485-e128-blsjVN7rGvC3IO8jwUcPTxwFHQeUi0otnQBWlwMYnFw\/2.m3u8"
+            
         ],
         "pin_code": "",
         "device_limit": 1,
