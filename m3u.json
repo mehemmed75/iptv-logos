@@ -1343,8 +1343,7 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/c8b960e732cfc5798c026c39a0f21e4009575c24-784-0-knn576995-3-628273496-1789668686-e128-COVLJvDtY7XMkzZAqEvx7c5WZ9qpv3I2CRaqQSWvU3w\/1500.m3u8",
-            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/c8b960e732cfc5798c026c39a0f21e4009575c24-784-0-knn576995-3-628273496-1789668686-e128-COVLJvDtY7XMkzZAqEvx7c5WZ9qpv3I2CRaqQSWvU3w\/index.m3u8"
+            
         ],
         "pin_code": "",
         "device_limit": 1,
