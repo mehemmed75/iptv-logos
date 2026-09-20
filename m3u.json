@@ -1336,7 +1336,7 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://www.ntv.ru/air/ntvseries/"],
+        "web_urls": ["https://www.ntv.ru/air/ntvseries/","http://live.tivix.co/416-ntv_serial.html"],
         "urls": [
             
         ],
