@@ -1698,6 +1698,26 @@
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
+},
+{
+        "name": "Телекафе",
+        "logo": "",
+        "group": "Russia",
+        "is_protected": false,
+        "web_urls": [
+            "http://tvin.su/view-tv-online/avto24-online",
+"https://telik.live/avto24.html",
+"https://televizo.live/avto24.html"
+
+        ],
+        "urls": [
+"https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDI2IDU6Mjc6MjEgUE0maGFzaF92YWx1ZT1LTjNsUjdjT1VXV3J6OExDWmhvTW13PT0mdmFsaWRtaW51dGVzPTIw"
+
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
 }
+    
     
 ]
