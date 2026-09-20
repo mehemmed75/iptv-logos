@@ -1717,7 +1717,28 @@
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
+},
+{
+        "name": "Моя планета",
+        "logo": "",
+        "group": "Russia",
+        "is_protected": false,
+        "web_urls": [
+            "http://rutv.pw/telecafe",
+"https://telik.live/telekafe.html",
+"http://magtv.top/online/telekafe"
+        ],
+        "urls": [
+"https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
+"https://tvcdnpotok.com/06SoGGf16-rrhjhFsa2CwA/2018/1789946494/index.m3u8"
+
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
 }
+
+
     
     
 ]
