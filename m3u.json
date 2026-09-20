@@ -1375,9 +1375,9 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/sts-love"],
+        "web_urls": ["https://smotret.tv/sts-love","http://live.tivix.co/079215-stslove.html"],
         "urls": [
-            
+            "https://s.tivix.co/1GPY82YoYY_7OxxLUBEzQw/123/1789938513/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
