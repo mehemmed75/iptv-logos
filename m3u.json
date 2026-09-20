@@ -1386,10 +1386,7 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https:\/\/stream2.katv1.platform24.tv\/hlsjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A\/index.m3u8",
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A\/0.m3u8",
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A\/1.m3u8",
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/15ccb2e45fae5a333f7938fc65c221af92b8a0ea-284-0-knn576995-3-628273496-1789670624-e128-jWhqYcHgiTAhdD4jssZUgpfHVIV8HC4PJiH_77qfk7A\/2.m3u8"
+            
         ],
         "pin_code": "",
         "device_limit": 1,
