@@ -1312,9 +1312,7 @@
         "is_protected": false,
         "web_urls": [],
         "urls": [
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM\/0.m3u8",
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM\/1.m3u8",
-            "https:\/\/stream2.katv1.platform24.tv\/mbrjwt\/9b7d9d51991090d5234a2491d3fc06fa58a92c1d-73-0-knn576995-3-628273496-1789667768-e128-znSyyo7mm1vCHUzinLYzXVD5hBk8wAdWBYHypRI-wKM\/2.m3u8"
+            
         ],
         "pin_code": "",
         "device_limit": 1,
