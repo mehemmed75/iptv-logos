@@ -1679,7 +1679,26 @@
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
+},
+{
+        "name": "Авто24",
+        "logo": "",
+        "group": "Russia",
+        "is_protected": false,
+        "web_urls": [
+            "https://live.viks.tv/024922-muzhskoe-kino.html",
+
+        ],
+        "urls": [
+"https://s.viks.tv/3FI1DrNWwae7mmYKpgVh7w/593/1789943021/index.m3u8"
+
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
 }
+
+
 
 
 
