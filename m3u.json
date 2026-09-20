@@ -1662,8 +1662,27 @@
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
-}
+},
 
+{
+        "name": "Мужское кино",
+        "logo": "",
+        "group": "Russia",
+        "is_protected": false,
+        "web_urls": [
+            "https://xittv.net/nauka.html",
+"http://live.domatv.net/176-nauka-2.html",
+"http://live.tivix.co/79-nauka-2.html"
+        ],
+        "urls": [
+"https://s.xittv.net/V0u_iXfwCtlikaPdy-n9oQ/115/1789941377/index.m3u8",
+"https://s.tivix.co/PDVZX_n2by7DKU5J_PFUlw/115/1789941530/index.m3u8",
+"https://s.domatv.net/gM2FOzpAO4kuHrLRQaQW1A/115/1789941471/index.m3u8"
+        ],
+        "pin_code": "",
+        "device_limit": 1,
+        "expiration_date": ""
+}
 
 
 
