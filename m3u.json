@@ -1414,8 +1414,8 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://glaz.tv/online-tv/pyatyi-kanal-online"],
-        "urls": [
+        "web_urls": ["https://glaz.tv/online-tv/pyatyi-kanal-online","http://live.tivix.co/93-pyatyy-kanal_sankt_peterburg_2.html"],
+        "urls": ["https://s.tivix.co/7giczlg5q3brnPDAu5hlNg/524/1789939414/index.m3u8"
             
         ],
         "pin_code": "",
