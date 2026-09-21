@@ -1774,6 +1774,18 @@
         "web_urls": ["https://vostok.tv/onlajn-tv/"],
         "urls": [
             "https:\/\/river-4-419.rtbcdn.ru\/stream\/genetta-425.ntv.rutube.ru\/qxq-vkv7jgsLjo_IEkT44g\/1790622636\/69c54c756c1d5e789c489398a8725835\/576p_stream.m3u8"
+},
+{        "name": "Совершенно секретно",
+        "logo": "",
+        "group": "Russia",
+        "web_urls": [
+            "http://rutuner.ru/watch/vremya"
+        ],
+        "urls": [
+            "https:\/\/s.pokaz.me\/uDfZGHXQ4eP1ELVk0NZRBg\/546\/1790035004\/index.m3u8"
+        
+    
+  
         ]
     }
 ]
