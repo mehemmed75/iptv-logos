@@ -1760,9 +1760,20 @@
         "name": "Совершенно секретно",
         "logo": "",
         "group": "Russia",
-        "web_urls": ["https://pokaz.me/60-kanal-sovershenno-sekretno.html"],
+        "web_urls": [
+            "https:\/\/pokaz.me\/60-kanal-sovershenno-sekretno.html"
+        ],
         "urls": [
-            "https://s.pokaz.me/uDfZGHXQ4eP1ELVk0NZRBg/546/1790035004/index.m3u8"
+            "https:\/\/s.pokaz.me\/uDfZGHXQ4eP1ELVk0NZRBg\/546\/1790035004\/index.m3u8"
+        ]
+    },
+    {
+        "name": "Восток ТВ",
+        "logo": "",
+        "group": "Russia",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/river-4-419.rtbcdn.ru\/stream\/genetta-425.ntv.rutube.ru\/qxq-vkv7jgsLjo_IEkT44g\/1790622636\/69c54c756c1d5e789c489398a8725835\/576p_stream.m3u8"
         ]
     }
 ]
