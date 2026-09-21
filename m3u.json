@@ -1310,10 +1310,11 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://www.1tv.ru/live","https://smotret-online.tv/pervyj-kanal.html"],
-        "urls": [
-            
+        "web_urls": [
+            "https:\/\/www.1tv.ru\/live",
+            "https:\/\/smotret-online.tv\/pervyj-kanal.html"
         ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1323,10 +1324,12 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/ntv","https://www.ntv.ru/air/ntv/","https://www.ontvtime.ru/general/ntv-6.html"],
-        "urls": [
-            
+        "web_urls": [
+            "https:\/\/smotret.tv\/ntv",
+            "https:\/\/www.ntv.ru\/air\/ntv\/",
+            "https:\/\/www.ontvtime.ru\/general\/ntv-6.html"
         ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1336,10 +1339,11 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://www.ntv.ru/air/ntvseries/","http://live.tivix.co/416-ntv_serial.html"],
-        "urls": [
-            
+        "web_urls": [
+            "https:\/\/www.ntv.ru\/air\/ntvseries\/",
+            "http:\/\/live.tivix.co\/416-ntv_serial.html"
         ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1349,9 +1353,12 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://televizor24.tv/tv/sts.html","https://live.viks.tv/023117-sts.html"],
+        "web_urls": [
+            "https:\/\/televizor24.tv\/tv\/sts.html",
+            "https:\/\/live.viks.tv\/023117-sts.html"
+        ],
         "urls": [
-            "https://s.viks.tv/xezjUCXRI_j2Ebwy-CUIxw/591/1789937738/index.m3u8"
+            "https:\/\/s.viks.tv\/xezjUCXRI_j2Ebwy-CUIxw\/591\/1789937738\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1362,10 +1369,10 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["http://magtv.top/online/sts-kids"],
-        "urls": [
-            
+        "web_urls": [
+            "http:\/\/magtv.top\/online\/sts-kids"
         ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1375,9 +1382,12 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/sts-love","http://live.tivix.co/079215-stslove.html"],
+        "web_urls": [
+            "https:\/\/smotret.tv\/sts-love",
+            "http:\/\/live.tivix.co\/079215-stslove.html"
+        ],
         "urls": [
-            "https://s.tivix.co/1GPY82YoYY_7OxxLUBEzQw/123/1789938513/index.m3u8"
+            "https:\/\/s.tivix.co\/1GPY82YoYY_7OxxLUBEzQw\/123\/1789938513\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1388,9 +1398,12 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/tnt","http://live.tivix.co/115506-tv-tnt.html"],
-        "urls": ["https://s.tivix.co/kGuhQWqaKz6t9-9Qw7MXAg/547/1789938844/index.m3u8"
-            
+        "web_urls": [
+            "https:\/\/smotret.tv\/tnt",
+            "http:\/\/live.tivix.co\/115506-tv-tnt.html"
+        ],
+        "urls": [
+            "https:\/\/s.tivix.co\/kGuhQWqaKz6t9-9Qw7MXAg\/547\/1789938844\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1401,9 +1414,15 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/tnt4","https://www.ontvtime.ru/live/tnt4.html","http://live.tivix.co/29-kamedi_tv.html","https://xittv.net/tnt4.html"],
+        "web_urls": [
+            "https:\/\/smotret.tv\/tnt4",
+            "https:\/\/www.ontvtime.ru\/live\/tnt4.html",
+            "http:\/\/live.tivix.co\/29-kamedi_tv.html",
+            "https:\/\/xittv.net\/tnt4.html"
+        ],
         "urls": [
-            "https://s.tivix.co/3p8CtfVc8PmwVbaRxm8WMg/105/1789938992/index.m3u8","https://s.xittv.net/SCe9peVUxlq_6w1dVs_rZQ/105/1789939084/index.m3u8"
+            "https:\/\/s.tivix.co\/3p8CtfVc8PmwVbaRxm8WMg\/105\/1789938992\/index.m3u8",
+            "https:\/\/s.xittv.net\/SCe9peVUxlq_6w1dVs_rZQ\/105\/1789939084\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1414,9 +1433,12 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://glaz.tv/online-tv/pyatyi-kanal-online","http://live.tivix.co/93-pyatyy-kanal_sankt_peterburg_2.html"],
-        "urls": ["https://s.tivix.co/7giczlg5q3brnPDAu5hlNg/524/1789939414/index.m3u8"
-            
+        "web_urls": [
+            "https:\/\/glaz.tv\/online-tv\/pyatyi-kanal-online",
+            "http:\/\/live.tivix.co\/93-pyatyy-kanal_sankt_peterburg_2.html"
+        ],
+        "urls": [
+            "https:\/\/s.tivix.co\/7giczlg5q3brnPDAu5hlNg\/524\/1789939414\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1427,10 +1449,10 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotrettv.net/tv/public/316-ren-tv.html"],
-        "urls": [
-            
+        "web_urls": [
+            "https:\/\/smotrettv.net\/tv\/public\/316-ren-tv.html"
         ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1440,10 +1462,10 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/pyatnica"],
-        "urls": [
-            
+        "web_urls": [
+            "https:\/\/smotret.tv\/pyatnica"
         ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1453,9 +1475,13 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/music/tnt-music","http://live.tivix.co/363-telekanal-tnt_music.html","https://xittv.net/tnt-musik.html"],
+        "web_urls": [
+            "https:\/\/smotret.tv\/music\/tnt-music",
+            "http:\/\/live.tivix.co\/363-telekanal-tnt_music.html",
+            "https:\/\/xittv.net\/tnt-musik.html"
+        ],
         "urls": [
-            "https://s.xittv.net/DVpHHMAoJko6L5n0qzk32Q/159/1789770461/index.m3u8"
+            "https:\/\/s.xittv.net\/DVpHHMAoJko6L5n0qzk32Q\/159\/1789770461\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1466,10 +1492,12 @@
         "logo": "",
         "group": "Russia",
         "is_protected": false,
-        "web_urls": ["https://smotret.tv/online/rossiya-24.html","https://vgtrk.ru/russia24"],
+        "web_urls": [
+            "https:\/\/smotret.tv\/online\/rossiya-24.html",
+            "https:\/\/vgtrk.ru\/russia24"
+        ],
         "urls": [
-"https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8"
-            
+            "https:\/\/live.smotrim.ru\/vgtrk\/0\/russia24-hd\/1080p.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1643,101 +1671,98 @@
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
-},
-{
+    },
+    {
         "name": "Наука 2.0",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-            "https://xittv.net/nauka.html",
-"http://live.domatv.net/176-nauka-2.html",
-"http://live.tivix.co/79-nauka-2.html"
+            "https:\/\/xittv.net\/nauka.html",
+            "http:\/\/live.domatv.net\/176-nauka-2.html",
+            "http:\/\/live.tivix.co\/79-nauka-2.html"
         ],
         "urls": [
-"https://s.xittv.net/V0u_iXfwCtlikaPdy-n9oQ/115/1789941377/index.m3u8",
-"https://s.tivix.co/PDVZX_n2by7DKU5J_PFUlw/115/1789941530/index.m3u8",
-"https://s.domatv.net/gM2FOzpAO4kuHrLRQaQW1A/115/1789941471/index.m3u8"
+            "https:\/\/s.xittv.net\/V0u_iXfwCtlikaPdy-n9oQ\/115\/1789941377\/index.m3u8",
+            "https:\/\/s.tivix.co\/PDVZX_n2by7DKU5J_PFUlw\/115\/1789941530\/index.m3u8",
+            "https:\/\/s.domatv.net\/gM2FOzpAO4kuHrLRQaQW1A\/115\/1789941471\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
-},
-{
+    },
+    {
         "name": "Мужское кино",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-            "https://live.viks.tv/024922-muzhskoe-kino.html"
-
+            "https:\/\/live.viks.tv\/024922-muzhskoe-kino.html"
         ],
         "urls": [
-"https://s.viks.tv/3FI1DrNWwae7mmYKpgVh7w/593/1789943021/index.m3u8"
-
+            "https:\/\/s.viks.tv\/3FI1DrNWwae7mmYKpgVh7w\/593\/1789943021\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
-},
-{
+    },
+    {
         "name": "Авто24",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-            "http://tvin.su/view-tv-online/avto24-online",
-"https://telik.live/avto24.html",
-"https://televizo.live/avto24.html"
-
+            "http:\/\/tvin.su\/view-tv-online\/avto24-online",
+            "https:\/\/telik.live\/avto24.html",
+            "https:\/\/televizo.live\/avto24.html"
         ],
         "urls": [
-"https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDI2IDU6Mjc6MjEgUE0maGFzaF92YWx1ZT1LTjNsUjdjT1VXV3J6OExDWmhvTW13PT0mdmFsaWRtaW51dGVzPTIw"
-
+            "https:\/\/stream8.cinerama.uz\/1430\/tracks-v1a1\/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMC8yMDI2IDU6Mjc6MjEgUE0maGFzaF92YWx1ZT1LTjNsUjdjT1VXV3J6OExDWmhvTW13PT0mdmFsaWRtaW51dGVzPTIw"
         ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
-},
-{
+    },
+    {
         "name": "Телекафе",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-            "http://rutv.pw/telecafe",
-"https://telik.live/telekafe.html",
-"http://magtv.top/online/telekafe"
+            "http:\/\/rutv.pw\/telecafe",
+            "https:\/\/telik.live\/telekafe.html",
+            "http:\/\/magtv.top\/online\/telekafe"
         ],
         "urls": [
-"https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8",
-"https://tvcdnpotok.com/06SoGGf16-rrhjhFsa2CwA/2018/1789946494/index.m3u8"
-
+            "https:\/\/stream8.cinerama.uz\/1035\/tracks-v1a1\/mono.m3u8",
+            "https:\/\/tvcdnpotok.com\/06SoGGf16-rrhjhFsa2CwA\/2018\/1789946494\/index.m3u8"
         ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
-},
-{
+    },
+    {
         "name": "Моя планета",
         "logo": "",
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-            "https://tvix.live/moya-planeta.html"
-
+            "https:\/\/tvix.live\/moya-planeta.html"
         ],
         "urls": [
-"https://river-6-602.rtbcdn.ru/hls-vod/vnvPoUnW64eu4g1Dwq5f3A/1790534190/2852/0x5000c500e071347e/2662e291d82b4d039b95ae851c8e1d5f.mp4.m3u8?i=1920x1080_5134"
-
-
+            "https:\/\/river-6-602.rtbcdn.ru\/hls-vod\/vnvPoUnW64eu4g1Dwq5f3A\/1790534190\/2852\/0x5000c500e071347e\/2662e291d82b4d039b95ae851c8e1d5f.mp4.m3u8?i=1920x1080_5134"
         ],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
-}
-
-
-    
-    
+    },
+    {
+        "name": "Совершенно секретно",
+        "logo": "",
+        "group": "Russia",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/live-sovsec-ref.cdnvideo.ru\/sovsec\/sovsec.smil\/playlist.m3u8?zoid=sref"
+        ]
+    }
 ]
