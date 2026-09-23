@@ -1791,8 +1791,8 @@
         "web_urls": [
             
         ],
-        "urls": [
-            "https://stream1.katv1.platform24.tv/hlsjwt/d6ef75a56736ad02bcfdf72c372241c13b399cb5-20-0-knn576995-3-628273952-1790160813-e128-73dlAbrFOgVvMY8iz0pjwOMMityUFiC5FMWbl1XKSaI/index.m3u8"
+        "urls": [ 
+"https://stream1.katv1.platform24.tv/hlsjwt/d6ef75a56736ad02bcfdf72c372241c13b399cb5-20-0-knn576995-3-628273952-1790160813-e128-73dlAbrFOgVvMY8iz0pjwOMMityUFiC5FMWbl1XKSaI/index.m3u8"
 ]
 }
 ]
