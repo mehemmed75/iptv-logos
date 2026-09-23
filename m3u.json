@@ -1817,9 +1817,18 @@
         "urls": ["https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
 ]
 },
+{        "name": "Домашние животные",
+        "logo": "",
+        "group": "Russia",
+        "web_urls": [
+            "https://telik.live/domashnie-zhivotnye.html"
 
-https://telik.live/domashnie-zhivotnye.html
-https://tvcdnpotok.com/eBJEYlCgs6UG2x5BX8NBDQ/2007/1790181234/index.m3u8
+        ],
+        "urls": [
+"https://tvcdnpotok.com/eBJEYlCgs6UG2x5BX8NBDQ/2007/1790181234/index.m3u8"
+]
+
+
 
 
 
