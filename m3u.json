@@ -1805,8 +1805,19 @@
 "http://tvin.su/view-tv-online/zhara-music"
         ],
         "urls": [
+]
+},
+{        "name": "Доктор",
+        "logo": "",
+        "group": "Russia",
+        "web_urls": [
+            "https://tvix.live/doktor.html"
 
-
+        ],
+        "urls": [
 ]
 }
+
+
+
 ]
