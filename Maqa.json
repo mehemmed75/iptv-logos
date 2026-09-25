@@ -21,7 +21,9 @@
     "giris_sifresi": "10",
     "cihaz_limiti": 1,
     "bitis_tarihi": "18.08.20230 20:30",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "4778f03bb4ec01bd"
+    ],
     "aktif": true
   }
 ]
