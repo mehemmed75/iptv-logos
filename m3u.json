@@ -1476,9 +1476,10 @@
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-            "https:\/\/smotret.tv\/music\/tnt-music",
+          
             "http:\/\/live.tivix.co\/363-telekanal-tnt_music.html",
-            "https:\/\/xittv.net\/tnt-musik.html"
+            "https:\/\/xittv.net\/tnt-musik.html",
+  "https:\/\/smotret.tv\/music\/tnt-music"
         ],
         "urls": [
             
