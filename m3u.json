@@ -1539,8 +1539,9 @@
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-            "https:\/\/smotret.tv\/yu",
+         
             "https:\/\/live.viks.tv\/026222-yu-tv.html",
+   "https:\/\/smotret.tv\/yu",
             "http:\/\/live.domatv.net\/74-ju-tv.html"
         ],
         "urls": [
