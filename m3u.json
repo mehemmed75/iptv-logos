@@ -221,12 +221,11 @@
         "group": "Azerbaijan",
         "is_protected": false,
         "web_urls": [
-            "https:\/\/canlitv.com\/arb-gunes-tv"
+            "https:\/\/canlitv.com\/arb-gunes-tv",
+"https://turkcanli.tv/arb_gunes"
         ],
         "urls": [
-            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/6ae7fcad397f43ef3162323e557dc0360662e7aa-6705-0-knn576995-3-628273496-1789659122-e128-NpXaYdjNtvwnGPrNUj86r65ALRgOj-VQthAwOKBaoAE\/index.m3u8",
-            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/6ae7fcad397f43ef3162323e557dc0360662e7aa-6705-0-knn576995-3-628273496-1789659122-e128-NpXaYdjNtvwnGPrNUj86r65ALRgOj-VQthAwOKBaoAE\/1500.m3u8?ml=true",
-            "https:\/\/stream1.katv1.platform24.tv\/mbrjwt\/6ae7fcad397f43ef3162323e557dc0360662e7aa-6705-0-knn576995-3-628273496-1789659122-e128-NpXaYdjNtvwnGPrNUj86r65ALRgOj-VQthAwOKBaoAE\/1500.m3u8"
+            "https://uae.iptv2022.com/sh/arb_gunes_az/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4"
         ],
         "pin_code": "",
         "device_limit": 1,
