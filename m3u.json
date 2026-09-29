@@ -222,11 +222,9 @@
         "is_protected": false,
         "web_urls": [
             "https:\/\/canlitv.com\/arb-gunes-tv",
-"https://turkcanli.tv/arb_gunes"
+            "https:\/\/turkcanli.tv\/arb_gunes"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -474,12 +472,9 @@
         "logo": "",
         "group": "vip",
         "web_urls": [
-            "http://oxax.tv/brazzers-tv.html"
-            
+            "http:\/\/oxax.tv\/brazzers-tv.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "is_protected": true,
         "pin_code": "maqa001e7",
         "device_limit": 1,
@@ -1356,9 +1351,7 @@
             "https:\/\/televizor24.tv\/tv\/sts.html",
             "https:\/\/live.viks.tv\/023117-sts.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1385,9 +1378,7 @@
             "https:\/\/smotret.tv\/sts-love",
             "http:\/\/live.tivix.co\/079215-stslove.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1401,9 +1392,7 @@
             "https:\/\/smotret.tv\/tnt",
             "http:\/\/live.tivix.co\/115506-tv-tnt.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1414,14 +1403,12 @@
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-            "https:\/\/smotret.tv\/tnt4",       
+            "https:\/\/smotret.tv\/tnt4",
             "http:\/\/live.tivix.co\/29-kamedi_tv.html",
             "https:\/\/xittv.net\/tnt4.html",
-"https:\/\/www.ontvtime.ru\/live\/tnt4.html"
+            "https:\/\/www.ontvtime.ru\/live\/tnt4.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1435,9 +1422,7 @@
             "https:\/\/glaz.tv\/online-tv\/pyatyi-kanal-online",
             "http:\/\/live.tivix.co\/93-pyatyy-kanal_sankt_peterburg_2.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1474,14 +1459,11 @@
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-          
             "http:\/\/live.tivix.co\/363-telekanal-tnt_music.html",
             "https:\/\/xittv.net\/tnt-musik.html",
-  "https:\/\/smotret.tv\/music\/tnt-music"
+            "https:\/\/smotret.tv\/music\/tnt-music"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1525,9 +1507,7 @@
             "https:\/\/smotret.tv\/domashniy",
             "http:\/\/live.tivix.co\/100-domashniy.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1538,14 +1518,11 @@
         "group": "Russia",
         "is_protected": false,
         "web_urls": [
-         
             "https:\/\/live.viks.tv\/026222-yu-tv.html",
-   "https:\/\/smotret.tv\/yu",
+            "https:\/\/smotret.tv\/yu",
             "http:\/\/live.domatv.net\/74-ju-tv.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1556,9 +1533,7 @@
         "group": "Russia",
         "is_protected": false,
         "web_urls": [],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1587,9 +1562,7 @@
             "http:\/\/live.tivix.co\/175-ohota-i-rybalka.html",
             "http:\/\/live.domatv.net\/84-ohota-i-rybalka.html"
         ],
-        "urls": [
-          
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1618,9 +1591,7 @@
             "https:\/\/xittv.net\/mult.html",
             "https:\/\/live.viks.tv\/023022-mult.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1677,9 +1648,7 @@
             "http:\/\/live.domatv.net\/176-nauka-2.html",
             "http:\/\/live.tivix.co\/79-nauka-2.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1692,9 +1661,7 @@
         "web_urls": [
             "https:\/\/live.viks.tv\/024922-muzhskoe-kino.html"
         ],
-        "urls": [
-            
-        ],
+        "urls": [],
         "pin_code": "",
         "device_limit": 1,
         "expiration_date": ""
@@ -1723,12 +1690,10 @@
         "is_protected": false,
         "web_urls": [
             "http:\/\/rutv.pw\/telecafe",
-        /*    "https:\/\/telik.live\/telekafe.html",*/
             "http:\/\/magtv.top\/online\/telekafe"
         ],
         "urls": [
             "https:\/\/stream8.cinerama.uz\/1035\/tracks-v1a1\/mono.m3u8"
-            
         ],
         "pin_code": "",
         "device_limit": 1,
@@ -1756,123 +1721,122 @@
         "web_urls": [
             "https:\/\/pokaz.me\/60-kanal-sovershenno-sekretno.html"
         ],
-        "urls": [
-            
-        ]
+        "urls": []
     },
     {
         "name": "Восток ТВ",
         "logo": "",
         "group": "Russia",
-        "web_urls": ["https://vostok.tv/onlajn-tv/"],
+        "web_urls": [
+            "https:\/\/vostok.tv\/onlajn-tv\/"
+        ],
         "urls": [
             "https:\/\/river-4-419.rtbcdn.ru\/stream\/genetta-425.ntv.rutube.ru\/qxq-vkv7jgsLjo_IEkT44g\/1790622636\/69c54c756c1d5e789c489398a8725835\/576p_stream.m3u8"
-]
-},
-{        "name": "Время",
+        ]
+    },
+    {
+        "name": "Время",
         "logo": "",
         "group": "Russia",
         "web_urls": [
-            "http://rutuner.ru/watch/vremya","http://rodnoetv.ru/show-tv/vremya","http://www.magtv.top/online/vremya","http://tvin.su/view-tv-online/vremya-channel","https://smotret-online.tv/vremya.html"
+            "http:\/\/rutuner.ru\/watch\/vremya",
+            "http:\/\/rodnoetv.ru\/show-tv\/vremya",
+            "http:\/\/www.magtv.top\/online\/vremya",
+            "http:\/\/tvin.su\/view-tv-online\/vremya-channel",
+            "https:\/\/smotret-online.tv\/vremya.html"
         ],
         "urls": [
-            "http://stream.mcquack.net/237/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1","https://tvcdnpotok.com/c-6iW7H2cmR2cNkKPmJiSA/2072/1790036709/index.m3u8"
-]
-},
-{        "name": "Детский мир",
+            "http:\/\/stream.mcquack.net\/237\/tracks-v1a1\/mono.ts.m3u8?ads=1&filter.tracks=v1a1",
+            "https:\/\/tvcdnpotok.com\/c-6iW7H2cmR2cNkKPmJiSA\/2072\/1790036709\/index.m3u8"
+        ]
+    },
+    {
+        "name": "Детский мир",
+        "logo": "",
+        "group": "Russia",
+        "web_urls": [],
+        "urls": [
+            "https:\/\/stream1.katv1.platform24.tv\/hlsjwt\/d6ef75a56736ad02bcfdf72c372241c13b399cb5-20-0-knn576995-3-628273952-1790160813-e128-73dlAbrFOgVvMY8iz0pjwOMMityUFiC5FMWbl1XKSaI\/index.m3u8"
+        ]
+    },
+    {
+        "name": "Жара",
         "logo": "",
         "group": "Russia",
         "web_urls": [
-            
+            "http:\/\/live.domatv.net\/143-zhara-tv.html",
+            "http:\/\/live.tivix.co\/392-zhara-tv.html",
+            "http:\/\/tvin.su\/view-tv-online\/zhara-music"
         ],
-        "urls": [ 
-"https://stream1.katv1.platform24.tv/hlsjwt/d6ef75a56736ad02bcfdf72c372241c13b399cb5-20-0-knn576995-3-628273952-1790160813-e128-73dlAbrFOgVvMY8iz0pjwOMMityUFiC5FMWbl1XKSaI/index.m3u8"
-]
-},
-{        "name": "Жара",
+        "urls": []
+    },
+    {
+        "name": "Доктор",
         "logo": "",
         "group": "Russia",
         "web_urls": [
-            "http://live.domatv.net/143-zhara-tv.html",
-"http://live.tivix.co/392-zhara-tv.html",
-"http://tvin.su/view-tv-online/zhara-music"
+            "https:\/\/tvix.live\/doktor.html"
         ],
         "urls": [
-]
-},
-{        "name": "Доктор",
+            "https:\/\/stream8.cinerama.uz\/1409\/tracks-v1a1\/mono.m3u8"
+        ]
+    },
+    {
+        "name": "Домашние животные",
         "logo": "",
         "group": "Russia",
         "web_urls": [
-            "https://tvix.live/doktor.html"
-
+            "http:\/\/magtv.top\/online\/domashnie-zhivotnye"
         ],
         "urls": [
-"https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8"
-]
-},
-{        "name": "Домашние животные",
+            "https:\/\/tvcdnpotok.com\/eBJEYlCgs6UG2x5BX8NBDQ\/2007\/1790181234\/index.m3u8"
+        ]
+    },
+    {
+        "name": "Рбк",
         "logo": "",
         "group": "Russia",
         "web_urls": [
-           
-"http://magtv.top/online/domashnie-zhivotnye"
-
-
+            "https:\/\/smotret.tv\/rbk",
+            "http:\/\/live.domatv.net\/91-rbk.html"
         ],
         "urls": [
-"https://tvcdnpotok.com/eBJEYlCgs6UG2x5BX8NBDQ/2007/1790181234/index.m3u8"
-]
-},
-{        "name": "Рбк",
+            "https:\/\/e5-online-video.rbc.ru\/online2\/rbctvhd_1080p\/index.m3u8?e=e5&t=eaa3ms"
+        ]
+    },
+    {
+        "name": "Загородная жизнь",
         "logo": "",
         "group": "Russia",
         "web_urls": [
-           
-"https://smotret.tv/rbk",
-"http://live.domatv.net/91-rbk.html"
-
-
+            "https:\/\/xittv.net\/zagorodnaya-zhizn.html"
         ],
         "urls": [
-"https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e5&t=eaa3ms"
-]
-},
-{        "name": "Загородная жизнь",
+            "https:\/\/s.xittv.net\/DtRGBzNFovv_L1Ns5LVI3w\/195\/1790184503\/index.m3u8"
+        ]
+    },
+    {
+        "name": "ЗооПарк",
         "logo": "",
         "group": "Russia",
         "web_urls": [
-           
-"https://xittv.net/zagorodnaya-zhizn.html"
-
-
-
+            "https:\/\/telik.live\/zoopark.html",
+            "https:\/\/smotret-online.tv\/zoopark.html",
+            "https:\/\/smotru.tv\/zoopark.html",
+            "http:\/\/myru.top\/online\/zoopark",
+            "https:\/\/televizo.live\/zoopark.html"
         ],
         "urls": [
-"https://s.xittv.net/DtRGBzNFovv_L1Ns5LVI3w/195/1790184503/index.m3u8"
-
-]
-},
-{        "name": "ЗооПарк",
+            "https:\/\/tvcdnpotok.com\/2tt109PT1z07GHqlj51K-g\/2022\/1790184697\/index.m3u8"
+        ]
+    },
+    {
+        "name": "Ностальгия",
         "logo": "",
         "group": "Russia",
-        "web_urls": [
-           
-"https://telik.live/zoopark.html",
-"https://smotret-online.tv/zoopark.html",
-"https://smotru.tv/zoopark.html",
-"http://myru.top/online/zoopark",
-"https://televizo.live/zoopark.html"
-
-
-
-        ],
+        "web_urls": [],
         "urls": [
-"https://tvcdnpotok.com/2tt109PT1z07GHqlj51K-g/2022/1790184697/index.m3u8"
-]
-}
-
-
-
-
+            "http:\/\/315e5a5d.ottrast.com\/iptv\/PXXFGKYYT6PCZA\/102\/index.m3u8"
+        ]
+    }
 ]
