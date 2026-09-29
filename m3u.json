@@ -1843,8 +1843,8 @@
         "name": "Карусель",
         "logo": "",
         "group": "Russia",
-        "web_urls": ["https://glaz.tv/online-tv/karusel","https://xittv.net/karusel.html","http://live.tivix.co/123-karusel-telenyanya.html","https://telik.live/karusel.html"],
-        "urls": [
+        "web_urls": ["https://glaz.tv/online-tv/karusel","https://xittv.net/karusel.html","http://live.tivix.co/123-karusel-telenyanya.html","https://telik.live/karusel.html","https://rustv.life/karusel.html"],
+        "urls": ["https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8"
             
         ]
     }
