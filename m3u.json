@@ -1844,7 +1844,7 @@
         "logo": "",
         "group": "Russia",
         "web_urls": ["https://glaz.tv/online-tv/karusel","https://xittv.net/karusel.html","http://live.tivix.co/123-karusel-telenyanya.html","https://smotret-online.tv/karusel.html","https://rustv.life/karusel.html","https://vits.tv/ru/tv/karusel/"],
-        "urls": ["https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8"
+        "urls": ["https://stream.smotrim.ru/hls2/karusel/playlist_3.m3u8","https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8"
             
         ]
     }
