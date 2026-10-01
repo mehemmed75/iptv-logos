@@ -34,5 +34,12 @@
       "042787dd5afc48ff"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "ibo130",
+    "cihaz_limiti": 3,
+    "bitis_tarihi": "18.08.2028 23:56",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
