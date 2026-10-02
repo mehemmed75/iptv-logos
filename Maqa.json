@@ -39,7 +39,9 @@
     "giris_sifresi": "ibo130",
     "cihaz_limiti": 3,
     "bitis_tarihi": "18.08.2028 23:56",
-    "izinli_cihazlar": [],
+    "izinli_cihazlar": [
+      "9437c44b8e3a5919"
+    ],
     "aktif": true
   }
 ]
