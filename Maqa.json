@@ -43,5 +43,12 @@
       "9437c44b8e3a5919"
     ],
     "aktif": true
+  },
+  {
+    "giris_sifresi": "13",
+    "cihaz_limiti": 1,
+    "bitis_tarihi": "18.08.2029 12:55",
+    "izinli_cihazlar": [],
+    "aktif": true
   }
 ]
